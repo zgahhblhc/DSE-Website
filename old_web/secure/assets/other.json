@@ -1,0 +1,16 @@
+{
+  "title": "DSE Lab | Signed Networks | Datasets",
+  "template": "<article class='article'><h2 class='title' title='TITLE'  style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Other DSE Lab Related Links",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+	"image": "",
+	"article": ["<p>&nbsp;&nbsp;&nbsp;&nbsp;Below are the lab rules that we should all follow. <ul><li><a href='https://docs.google.com/document/d/14lEXvZ7YiTs0ygSXwmQGHUOz6s4_Ko1paSJE6Azry-k/edit'>Lab Rules</a></li></ul><p>&nbsp;&nbsp;&nbsp;&nbsp;Below are the group meeting rules that we should all follow. <ul><li><a href='https://docs.google.com/document/d/1iL8KaRVwQQMX5yjohpcFQL7RhLZr0eYhLLZnt1Bh4bI/edit'>Meeting Rules</a></li></ul><p>&nbsp;&nbsp;&nbsp;&nbsp;Below is a document that contains JT's suggestions for the lab behavior. <ul><li><a href='assets/JT_Lab_Suggestions.txt'>JT Suggestions for the Lab</a></li></ul><p>&nbsp;&nbsp;&nbsp;&nbsp;Below is the documented procedure for recruiting new PhD students. <ul><li><a href='https://docs.google.com/document/d/1W9JiKJ2iCDlndZHplOTG5YT6oDDxR_07NugZJSIOJ_Y/edit'>PhD Recruiting Procedure</a></li></ul><p>The below is the current list of supplies that the DSE Lab is requesting from our collaborators. <ul><li><a href='https://docs.google.com/spreadsheets/d/13z-QvLim73kj_bkRD2V3BHiZ58xCxTxdz48wgCG-wlQ/edit#gid=0'>List of supplies to purchase</a></li></ul></p><p>&nbsp;&nbsp;&nbsp;&nbsp;The below is how to write a DSE blog. <ul><li><a href='assets/how_to_make_a_dse_blog_post.txt'>How to make a DSE blog post</a></li></ul></p><p>&nbsp;&nbsp;&nbsp;&nbsp;The below shows how to update the people/publications of DSE website. <ul><li><a href='assets/how_to_update_website.txt'>How to update the DSE people/publication website material</a></li></ul></p><p>&nbsp;&nbsp;&nbsp;&nbsp;The below is a file to keep track of conference paper reviews.<ul><li><a href='https://docs.google.com/spreadsheets/d/1sI1T5ZVXIUJbXgjoA7V2NfzJtKVaxoFzUji6R3V9pCQ/edit#gid=0'>Excel sheet tracking JT's conference reviews per person</a></li></ul></p><p>&nbsp;&nbsp;&nbsp;&nbsp;The below is a file to maintain the birthday's of lab members that choose to celebrate with the lab.<ul><li><a href='https://docs.google.com/spreadsheets/d/1XVv6ZLrqI7D95LeA4fxkrYSaClgGwwDOpDoFDEospV4/edit#gid=0'>Excel sheet of participating DSE member birthdays</a></li></ul></p>"]
+    }
+  ]
+}
+
+

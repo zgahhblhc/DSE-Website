@@ -1,0 +1,37 @@
+AuthType Basic
+AuthBasicProvider ldap
+AuthName "Roaming Access"
+AuthLDAPURL ldap://ds.cse.msu.edu:389/ou=People,dc=cse,dc=msu,dc=edu?uid?sub
+AuthLDAPGroupAttribute memberUid
+AuthLDAPGroupAttributeIsDN off
+
+require user tangjili
+
+require user almutai4
+require user wenqifan03
+
+
+require user derrtyle
+require user karimiha
+require user mayao4
+require user wangzh65
+require user zhaoxi35
+require user liuxia65
+require user xiaorui
+require user liuhaoc1
+require user daconjam
+require user xuhan1
+require user wangw116
+require user jinwei2
+require user liyaxin1
+require user wangy206
+
+require user wangch88
+require user oforida2
+
+require user ahmedibr
+require user zhaohans
+require user walajahi
+require user varghaei
+
+

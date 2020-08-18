@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<html lang='en-US'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='author' content='Data Science and Engineering Lab' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+
+    <link rel='stylesheet' href='./css/normalize.css'  />
+    <link rel='stylesheet' href='./css/initial.css' />
+    <link rel='stylesheet' href='./css/header.css' />
+    <link rel='stylesheet' href='./css/container.css' />
+    <link rel='stylesheet' href='./css/footer.css' />
+    <link rel='stylesheet' href='./css/mediaquery.css' />
+
+    <script type='text/javascript' src='./js/jquery.js' defer></script>
+    <script type='text/javascript' src='./js/jquery.mobile.js' defer></script>
+    <script type='text/javascript' src='./js/lodash.js' defer></script>
+    <script type='text/javascript' src='./js/chart.js' defer></script>
+    <script type='text/javascript' src='./js/script.js' defer></script>
+
+    <title id='title'>Welcome! | Data Science and Engineering Lab</title>
+  </head>
+  <body>
+    <header>
+      <img class='wordmark' title='MSU' alt='MSU Wordmark' src='./assets/MSU_Wordmark.svg' />
+      <div class='title'><canvas id='logo'></canvas>Data Science and Engineering Lab</div>
+      <nav class='navi'>
+        <ul class='list'>
+          <li><a class='button active' data-storage='home' onclick=''>Home</a></li>
+          <li><a class='button' data-storage='people' onclick=''>People</a></li>
+          <li><a class='button' data-storage='projects' onclick=''>Projects</a></li>
+          <li><a class='button' data-storage='publications' onclick=''>Publications</a></li>
+          <li><a class='button' data-storage='teachings' onclick=''>Teachings</a></li>
+          <li><a class='button' data-storage='openings' onclick=''>Openings</a></li>
+	  <li><a class='button' href='http://www.dse.cse.msu.edu/blog'>Blog</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class='container' id='container'>
+      <div class='main'>
+        <div class='slide' id='slide'>
+          <img class='image' id='slideshowImage' alt='slideshow' src='./assets/lakelansing-0.jpg' />
+          <span class='caption title' id='slideshowTitle'>Travel to Lake Lansing</span>
+          <span class='caption content' id='slideshowContent'>At this beautifulday, DSE members traveled to Lake Lansing :-) <span style=\"font-size: 10px; float: right;\">Photograph courtesy of DSE Lab.</span></span>
+        </div>
+
+        <div id='content' class='content'>
+          <div class='loader' style='width: 35px; height: 35px;'></div>
+        </div>
+
+        <div class='widget' id='widget'>
+          <div class='item list' id='news' style='height: 600px; overflow-y: scroll'>
+	    
+	      <a class="twitter-timeline"
+		    href="https://twitter.com/dse_msu?ref_src=twsrc%5Etfw">Tweets by
+		   dse_msu</a> <script async
+				       src="https://platform.twitter.com/widgets.js"
+				       charset="utf-8"></script>
+	  </div>
+          <div class='item list' id='press'></div>
+        </div>
+      </div>
+
+      <div class='side' id='side'>
+
+	<!--
+        <div class='item calendar'>
+          <h2 class='title'>Calendar</h2>
+          <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=256&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=dse.cse.msu%40gmail.com&amp;color=%23222222&amp;&ctz=America/New_York" style="border-width: 0; width: 100%; overflow: hidden;" height="256"></iframe>
+        </div>
+	-->
+
+        <div class='item contact'>
+          <h2 class='title'>Contact Us</h2>
+          <p>Data Science and Engineering Lab</p>
+          <span>Office: </span>Engineering Building 3308<br /><hr />
+          <span>Address: </span>428 South Shaw Lane, East Lansing, MI 48824<br /><hr />
+          <span>Email: </span>tangjili at msu dot edu<hr />
+        </div>
+
+        <div class='item twitter'>
+          <h2 class='title'>Social Media</h2>
+	  <div class='content'>
+	    <span>Twitter: <a href='https://twitter.com/dse_msu'>@dse_msu </a>
+	      <br></span>
+	    <a href="https://twitter.com/dse_msu?ref_src=twsrc%5Etfw"
+	    class="twitter-follow-button"
+	    data-show-count="false">Follow @dse_msu</a><script async
+	    src="https://platform.twitter.com/widgets.js"
+							       charset="utf-8"></script>
+
+	    </div>
+          <!--<a class="twitter-timeline" href="https://twitter.com/dse_msu" data-chrome="noheader nofooter noborders" data-tweet-limit="2">Tweets by DSE Lab</a>-->
+          <!--<script async src="//platform.twitter.com/widgets.js" charset="utf-8" defer></script>-->
+        </div>
+
+	
+        <div class='item contact'>	
+	  <script type="text/javascript" id="clustrmaps"
+		      src="//cdn.clustrmaps.com/map_v2.js?d=Oa8bBY6Dhn-61E5-IkpAUhrxChFzcZDWVViwX_lO9qA&cl=ffffff&w=a"></script>
+	  <!--<a href="https://clustrmaps.com/site/1aglb" title="Visit
+	  tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Oa8bBY6Dhn-61E5-IkpAUhrxChFzcZDWVViwX_lO9qA&cl=ffffff"></a>-->
+</div>
+
+        <div class='item list' id='count'>
+          <h2 class='title'>Viewer Counts</h2>
+          <ul>
+            <li><span>Index: <i id='cntIDX'></i></span> </li>
+            <li><span>People: <i id='cntPPL'></i></span> </li>
+            <li><span>Publications: <i id='cntPUB'></i></span> </li>
+            <li><span>Teachings: <i id='cntTEA'></i></span> </li>
+            <li><span>Openings: <i id='cntOPN'></i></span> </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+
+    <footer>
+      <img class='pixel' title='Pixel' alt='Pixel' src='./statistic.php?dse=index'>
+      <img class='seal' title='MSU' alt='MSU Seal' src='./assets/MSU_Seal.svg' />
+      <div class='element'>
+        <p class='title'>DSE Lab</p>
+        <p>&copy; Copyright <b>DSE Lab</b></p>
+        <p>A MSU CSE Dpt.,</p>
+        <p>2017 All Rights Reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

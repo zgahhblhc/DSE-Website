@@ -1,0 +1,30 @@
+{
+  "title": "Announcements | CSE881 Data Mining",
+  "template": "<ul class='content'>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "article": [
+        {"text": "<span>Feb 2017</span> Slide for ensemble methods is <a href='./assets/13-ensembleMethods.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Feb 2017</span> Slide for probabilistic classifiers is <a href='./assets/11-probabilisticClassifiers.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Feb 2017</span> Slide for non-linear classifiers is <a href='./assets/10-nonlinearClassifiers.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Feb 2017</span> Slide for linear classifiers is <a href='./assets/9-linearClassifiers.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Feb 2017</span> Slide for similarity search is <a href='./assets/6-similaritySearch.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Feb 2017</span> Homework 1 is <a href='./assets/Homework-1.pdf' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>, with Matlab code <a href='./assets/Homework-1-applyKernel.m' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Jan 2017</span> Slide for classification is <a href='./assets/8-classification.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Jan 2017</span> Slide for regression is <a href='./assets/7-regression.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Jan 2017</span> Slide for dimension reduction is <a href='./assets/5-dimensionReduction.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Jan 2017</span> Slide for data quality is <a href='./assets/4-dataQuality.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Jan 2017</span> Slide for background 2 is <a href='./assets/3-background2.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Jan 2017</span> Slide for background for linear algebra is <a href='./assets/2-background1.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Jan 2017</span> Slide for introduction to data mining is <a href='./assets/1-introduction.pptx' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>.", "link": ""},
+        {"text": "<span>Jan 2017</span> Course starts on Jan. 9th 2017.", "link": ""},
+        {"text": "<span>Jan 2017</span> Course website created.", "link": ""},
+        {"text": "<span>Jan 2017</span> Course details released.", "link": ""}
+      ]
+    }
+  ]
+}

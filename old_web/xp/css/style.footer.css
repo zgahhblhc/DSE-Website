@@ -1,0 +1,52 @@
+footer {
+  min-height: 35px;
+  max-height: 70px;
+  width: 100%;
+  background: #18453b;
+  color: white;
+  -webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+  border-radius: 15px 50px 15px 50px;
+}
+
+footer > .seal{
+  max-height: 35px;
+  width: auto;
+  margin: 0 15px 0 auto;
+  float: right;
+}
+
+footer > .element {
+  display: block;
+  height: 35px;
+  line-height: 30px;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  border: none;
+  text-align: center;
+}
+
+footer > .element:hover {
+  background: rgba(211, 211, 211, 0.15);
+}
+
+footer > .element .title {
+  color: darkgray;
+  font-size: 20px;
+  display: inline-block;
+  font-family: Grounday, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+footer > .element  p {
+  margin: 3px;
+  font-size: 16px;
+  display: inline-block;
+  font-family: UbuntuRegular, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+footer > .element p a {
+  color: white;
+  font-size: 20px;
+}

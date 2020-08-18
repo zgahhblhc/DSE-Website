@@ -1,0 +1,28 @@
+{
+  "title": "Press Coverage | Data Science and Engineering Lab",
+  "template": "<ul class='content'>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "Jiliang Tang",
+      "authorURL": "http://www.cse.msu.edu/~tangjili/",
+      "time": 1482347249000,
+      "article": [
+        {"text": "<span>Sep. 2019 The Register</span><br /><a href='https://www.theregister.co.uk/2019/09/20/reverse_engineer_an_ai_chatbot/' target='_blank'>It's possible to reverse-engineer AI chatbots to spout nonsense, smut or sensitive information</a>", "link": ""},
+        {"text": "<span>Apr. 2017 KDnuggets.com</span><br /><a href='http://www.kdnuggets.com/2017/04/five-machine-learning-projects-cant-overlook-april.html' target='_blank'>5 Machine Learning Projects You Can No Longer Overlook</a>", "link": ""},
+        {"text": "<span>Feb. 2016 DefenseOne.com</span><br /><a href='http://www.defenseone.com/technology/2016/02/military-funded-study-predicts-when-youll-protest-twitter/126156/' target='_blank'>Military-Funded Study Predicts When You’ll Protest on Twitter</a>", "link": ""},
+        {"text": "<span>Feb. 2016 Mic.com</span><a href='http://mic.com/articles/136542/a-military-funded-study-can-use-algorithms-to-predict-when-you-ll-become-a-protester#.qXVbstEcT' target='_blank'>A Military-Funded Study Can Use Algorithms to Predict When You'll Become a Protester</a>", "link": ""},
+        {"text": "<span>Feb. 2016 GadgetsNow.com</span><a href='http://timesofindia.indiatimes.com/tech/social/Tweets-can-help-predict-if-debates-with-turn-into-violent-protests-Study/articleshow/51142156.cms' target='_blank'>Tweets can help predict if debates with turn into violent protests: Study</a>", "link": ""},
+        {"text": "<span>Feb. 2016 Inverse.com</span><a href='https://www.inverse.com/article/12110-this-study-looked-at-whether-your-next-tweet-will-call-for-revolution' target='_blank'>This Study Looked at Whether Your Next Tweet Will Call for Revolution</a>", "link": ""},
+        {"text": "<span>Feb. 2016 BusinessInsider.in</span><a href='http://www.businessinsider.in/Now-your-tweets-can-tell-us-if-the-debates-youre-having-would-turn-into-violent-protests-later/articleshow/51143219.cms' target='_blank'>Now your tweets can tell us if the debates you're having would turn into violent protests later</a>", "link": ""},
+        {"text": "<span>Feb. 2016 NewIndianExpress</span><a href='http://www.newindianexpress.com/lifestyle/tech/Tweets-Can-Predict-if-Debates-Turn-Into-Violent-Protests/2016/02/25/article3296570.ece' target='_blank'>Tweets Can Predict if Debates Turn Into Violent Protests</a>", "link": ""},
+        {"text": "<span>Feb. 2016 Business-Standard</span><a href='http://www.business-standard.com/article/news-ians/tweets-can-predict-if-debates-turn-into-violent-protests-116022500627_1.html' target='_blank'>Tweets can predict if ebates turn into violent protests</a>", "link": ""},
+        {"text": "<span>Feb. 2016 FreePressJournal.in</span><a href='http://www.freepressjournal.in/webspecial/tweets-to-predict-if-debates-turn-into-violent-protests/790531' target='_blank'>Tweets to predict if debates turn into violent protests</a>", "link": ""},
+        {"text": "<span>Feb. 2016 BGR.in</span><a href='http://www.bgr.in/news/tweets-can-predict-when-debates-can-turn-into-violent-protests-researchers/' target='_blank'>Tweets can predict when debates can turn into violent protests: Researchers</a>", "link": ""},
+        {"text": "<span>Feb. 2016 Nextgov.com</span><a href='http://www.nextgov.com/defense/2016/02/military-funded-study-predicts-twitter-uprisings/126171/' target='_blank'>MILITARY-FUNDED STUDY PREDICTS TWITTER UPRISINGS</a>", "link": ""},
+        {"text": "<span>Feb. 2016 NewsGram.com</span><a href='http://www.newsgram.com/indian-origin-scientists-team-predict-outcome-of-tweets/' target='_blank'>Indian Origin scientist's team predict outcome of tweets</a>", "link": ""},
+        {"text": "<span>Feb. 2016 newKerala.com</span><a href='http://www.newkerala.com/news/2016/fullnews-26284.html' target='_blank'>Tweets can predict if debates turn into violent protests</a>", "link": ""}
+      ]
+    }
+  ]
+}

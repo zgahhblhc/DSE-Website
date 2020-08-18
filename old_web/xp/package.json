@@ -1,0 +1,39 @@
+{
+  "name": "Dieselite",
+  "version": "0.0.0",
+  "description": "DSE Official Website.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "config": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "bundledDependencies": [],
+  "optionalDependencies": {},
+  "os": [
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "arm",
+    "ia32",
+    "x64"
+  ],
+  "engine": {
+    "node": "^6.11.2",
+    "npm": "^3.10.10"
+  },
+  "keywords": [
+    "Dieselite",
+    "DSE Lab",
+    "Node",
+    "JS"
+  ],
+  "private": true,
+  "author": "Hansheng Zhao <zhaohans (at) msu (dot) edu> (https://www.zhs.me/)",
+  "contributors": [
+    "Hansheng Zhao <zhaohans (at) msu (dot) edu> (https://www.zhs.me/)"
+  ],
+  "license": "CC-BY-NC-SA-4.0"
+}

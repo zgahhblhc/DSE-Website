@@ -1,0 +1,16 @@
+{
+  "title": "People | Data Science and Engineering Lab",
+  "separator": "<article class='article'><h2 class='title'>Faculty</h2></article>",
+  "template": "<div class='item card'><img class='photo' title='TITLE' src='IMAGEURL' /><a class='meta' title='Link to: AUTHOR' href='AUTHORURL' target='_blank'><h2 class='title'>TITLE</h2><p class='caption'>ARTICLE</p></a></div>",
+  "chain": "graduate",
+  "contents": [
+    {
+      "title": "Dr. Jiliang Tang",
+      "author": "Jiliang Tang",
+      "authorURL": "http://www.cse.msu.edu/~tangjili/",
+      "time": 1482264505000,
+      "image": "jiliang.jpg",
+      "article": "Assistant Professor<br/>"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "DSE Lab | Feature and Similarity Learning | Overview",
+  "template": "<article class='article'><h2 class='title' title='TITLE' style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Feature and Similarity Learning",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp; Many real-world applications strongly rely on appropriate feature representations and similarity metrics. Feature and similarity learning have been extensively studied. When entering into the era of big data, it becomes increasingly challenging to apply conventional approaches. In this project, we design novel algorithms and construct systems of feature and similarity learning corresponding to the well-known 3V characteristics of big data – volume, variety and velocity."
+    }
+  ]
+}

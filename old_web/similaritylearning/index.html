@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang='en-US'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='author' content='Tyler Derr' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+
+    <link rel='stylesheet' href='../css/normalize.css'  />
+    <link rel='stylesheet' href='../css/initial.css' />
+    <link rel='stylesheet' href='../css/header.css' />
+    <!--> <link rel='stylesheet' href='../css/container.css' /> </!-->
+    <link rel='stylesheet' href='../css/footer.css' />
+    <link rel='stylesheet' href='../css/mediaquery.css' />
+    <link rel='stylesheet' href='../css/signed.css' />
+    
+    <script type='text/javascript' src='../js/jquery.js' defer></script>
+    <script type='text/javascript' src='../js/jquery.mobile.js' defer></script>
+    <script type='text/javascript' src='../js/lodash.js' defer></script>
+    <script type='text/javascript' src='../js/chart.js' defer></script>
+    <script type='text/javascript' src='./js/script.js' defer></script>
+
+    <title id='title'>Signed Networks</title>
+  </head>
+  <body>
+    <header>
+      <img class='wordmark' title='MSU' alt='MSU Wordmark'
+	   src='../assets/MSU_Wordmark.svg' />
+      
+      <div class='title'><canvas id='logo'></canvas>Data Science and Engineering Lab</div>
+      <nav class='navi'>
+        <ul class='list'>
+          <li><a class='button' href='http://www.dse.cse.msu.edu'>DSE Home</a></li>
+	  <li><a class='button active' data-storage='home' onclick=''>Overview</a></li>
+          <li><a class='button' data-storage='our_papers' onclick=''>Our Papers</a></li>
+	  <li><a class='button' data-storage='paper_list' onclick=''>Paper List</a></li>
+	  <li><a class='button' data-storage='data' onclick=''>Data</a></li>
+	  <li><a class='button' data-storage='code' onclick=''>Code</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class='container' id='container'>
+      <div class='main' style='width:80%'>
+	<div id='content' class='content' style='width:100%'>
+          <div class='loader' style='width: 35px; height: 35px;'></div>
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <img class='seal' title='MSU' alt='MSU Seal' src='../assets/MSU_Seal.svg' />
+      <div class='element'>
+        <p class='title'>CSE 881</p>
+        <p>&copy; Copyright <b>DSE Lab</b></p>
+	<p>A MSU CSE Dpt.,<p>
+        <p>2017 All Rights Reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

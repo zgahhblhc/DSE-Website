@@ -1,0 +1,133 @@
+@font-face {
+	font-family: 'Starck';
+	src: url('../assets/fonts/starck.otf') format('opentype'),
+		 url('../assets/fonts/starck.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'UbuntuLight';
+  src: url('../assets/fonts/ubuntulight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'UbuntuRegular';
+  src: url('../assets/fonts/ubunturegular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AuraBlue';
+  src: url('../assets/fonts/aurablue.eot');
+  src: url('../assets/fonts/aurablue.eot?#iefix') format('embedded-opentype'),
+       url('../assets/fonts/aurablue.woff2') format('woff2'),
+       url('../assets/fonts/aurablue.woff') format('woff'),
+       url('../assets/fonts/aurablue.ttf') format('truetype'),
+       url('../assets/fonts/aurablue.svg#aurablueregular') format('svg');
+}
+
+@font-face {
+  font-family: 'Grounday';
+  src: url('../assets/fonts/grounday.eot');
+  src: url('../assets/fonts/grounday.woff') format('woff'),
+       url('../assets/fonts/grounday.otf') format('opentype'),
+       url('../assets/fonts/grounday.ttf') format('truetype'),
+       url('../assets/fonts/grounday.svg') format('svg');
+}
+
+::-moz-selection {
+    color: white;
+    background: green;
+}
+
+::selection {
+    color: white;
+    background: green;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  background: repeating-linear-gradient(
+    60deg,
+    #ffffff,
+    #fefefe 2px,
+    #fcfcfc 2px,
+    #efefef 5px
+  );
+  font-family: UbuntuLight, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+a {
+  font-family: UbuntuLight, Tahoma, Verdana, Arial, sans-serif, serif;
+  text-decoration: none;
+  color: darkcyan;
+}
+
+a:hover {
+  color: grey;
+  cursor: pointer;
+}
+
+h2 {
+  height: 40px;
+	margin: 10px;
+	text-align: right;
+	color: gray;
+	font-size: 35px;
+	line-height: 40px;
+	font-weight: lighter;
+	font-family: AuraBlue, helvetica, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+h3 {
+  height: 25px;
+	margin: 5px;
+  font-size: 24px;
+ 	font-weight: lighter;
+  font-family: Grounday, helvetica, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+hr {
+	width: 100%;
+	margin: 5px;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+ul li a {
+  font-family: serif, Starck, helvetica, Tahoma, Verdana, Arial, sans-serif;
+  font-weight: lighter;
+  margin: auto 5px;
+}
+
+.loader {
+    border: 5px solid grey;
+    border-radius: 36%;
+    width: 35px;
+    height: 35px;
+    margin: 0 auto;
+    opacity: 0;
+    animation: pulsate 1s ease-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes pulsate {
+    0% {
+      transform: scale(.1);
+      opacity: 0.0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1.2);
+      opacity: 0;
+    }
+}

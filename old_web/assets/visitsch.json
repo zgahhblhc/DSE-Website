@@ -1,0 +1,58 @@
+{
+  "title": "People | Data Science and Engineering Lab",
+  "separator": "<article class='article'><h2 class='title'>Visiting Scholars</h2></article>",
+  "template": "<div class='item card'><img class='photo' title='TITLE' src='IMAGEURL' /><a class='meta' title='Link to: AUTHOR' href='AUTHORURL' target='_blank'><h2 class='title'>TITLE</h2><p class='caption'>ARTICLE</p></a></div>",
+  "chain": "alumnipostdoc",
+  "contents": [
+    {
+      "title": "Wenqi Fan",
+      "author": "Wenqi Fan",
+      "authorURL": "https://wenqifan03.github.io/",
+      "time": 1490081583000,
+      "image": "wenqi.jpeg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Xiaoyang Wang",
+      "author": "Xiaoyang Wang",
+      "authorURL": "#",
+        "time": 1490081583000,
+        "image": "shawn.png",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Juanhui Li",
+      "author": "Juanhui Li",
+      "authorURL": "https://juanhui28.github.io/Juanhui-Li/",
+      "time": 1490081583000,
+      "image": "juanhui.jpeg",
+      "article": "Master/Computer Science"
+    },
+    {
+      "title": "Hua Liu",
+      "author": "Hua Liu",
+      "authorURL": "https://hualiu829.github.io/Hua-Liu/",
+      "time": 1490081583000,
+      "image": "hua.jpeg",
+      "article": "PhD/Mathematics"
+    },
+    {
+      "title": "Jiangtao Huang",
+      "author": "Jiangtao Huang",
+      "authorURL": "#",
+      "time": 1490081779747,
+      "image": "jiangtao.jpeg",
+      "article": "Associate Professor/Computer Science"
+    },
+    {
+      "title": "Xin Wang",
+      "author": "Xin Wang",
+      "authorURL": "#",
+      "time": 1490081779747,
+      "image": "xin.jpeg",
+      "article": "Associate Professor/Computer Science"
+    }
+      
+
+  ]
+}

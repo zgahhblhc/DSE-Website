@@ -1,0 +1,22 @@
+{
+  "title": "DSE Lab | Signed Networks | Datasets",
+  "template": "<article class='article'><h2 class='title' title='TITLE'  style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Signed Networks Datasets",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+	"image": "",
+	"article": ["<p>&nbsp;&nbsp;&nbsp;&nbsp;<ul><li><a href='http://www.cse.msu.edu/~tangjili/trust.html'>Epinions Dataset</a></li></ul></p>",
+		    "<p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Slashdot Dataset</strong> (Coming soon!)</p>",
+		    "<p>&nbsp;&nbsp;&nbsp;&nbsp;Two Bitcoin Datasets (Coming soon!)</p>",
+		    "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bitcoin-OTC",
+		    "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bitcoin-Alpha",
+		    "<p>&nbsp;&nbsp;&nbsp;&nbsp;US Congress Datasets (Coming soon!)",
+		    "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will be the data coming from the two publications: (1) Balance in Signed Bipartite Networks (CIKM2019); and (2) Multi-Factor Congressional Vote Prediction (ASONAM2019).",
+		    "<p>&nbsp;&nbsp;&nbsp;&nbsp;Multi-vendor eCommerce Marketplace Dataset (Coming soon!)",
+		    "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This will be the data coming from the publication: (1) Balance in Signed Bipartite Networks (CIKM2019)"]
+    }
+  ]
+}

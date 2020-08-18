@@ -1,0 +1,14 @@
+{
+  "title": "DSE Lab | Secure | Presentation Schedule",
+  "template": "<article class='article'><h2 class='title' title='TITLE'  style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "DSE Lab Presentation Schedule",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+	"image": "",
+	"article": ["<p>&nbsp;&nbsp;&nbsp;&nbsp;The below is the presentation schedule for our lab. Please fill this in at least by the Friday before your presentation. Thank you!<br>&nbsp;&nbsp;&nbsp;&nbsp;<ul><li><a href='https://docs.google.com/spreadsheets/d/1-c_rl-LDPizqyI4mpdwlDRoR6onoyqkjSu5ScnMpF0U/edit'>Presentation Schedule</a></li><li><a href='https://drive.google.com/drive/folders/0B4x8H8aJJERBN3lpeEFUWW5hZ0E?usp=sharing'>Presentation Slides</a></li></ul></p>"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Course Policy | CSE881 Data Mining | Spring 2017",
+  "template": "<article class='article'><h2 class='title' title='TITLE'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Course Policy",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp;Homework assignments are due before midnight (11:59pm) on the due date unless stated otherwise. Late submission will be deducted 25% of the total possible assignment grade (if submitted within a day after the deadline) or 50% (if submitted within two days after the deadline). Assignments submitted more than 2 days after the deadline will not be accepted.<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;You are encouraged to form study groups to learn the materials in class or discuss about the homework assignments. However, you are forbidden from sharing your solution to becopied by other students. All submitted assignments must be your own work. Students who were found copying or sharing their solution to be copied by other students will automatically receive a zero for their homework assignment. <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;The instructor reserves the right to modify the course content and class schedule during the semester. <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;Make-up for examinations can be arranged if your absence is caused by documented illness or personal emergency. A written explanation (including supporting documentation) must be submitted to your instructor; if the explanation is acceptable, an alternative to the examination will be arranged. When possible, make-up arrangements must be made in advance. <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;All students are expected to be responsible users of the computer system provided for this course. Account usage guidelines published by the Department of Computer Science and Engineering are posted at http://www.cse.msu.edu/facility/policy.php <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;The Department of Computer Science expects all students to adhere to MSU’s policy on Integrity of Scholarship and Grades. Information about MSU policy regarding academic integrity is available at https://www.msu.edu/~ombud/academicintegrity/index.html. <br /><br />&nbsp;&nbsp;&nbsp;&nbsp;Students who require accommodation under the Americans with Disabilities Act (ADA) with MSU's Resource Centers for Disabilities (RCPD) should bring their Verified Individualized Services and Accommodations (VISA) form to the instructor at the beginning of the semester as possible."
+    }
+  ]
+}

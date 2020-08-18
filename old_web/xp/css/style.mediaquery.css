@@ -1,0 +1,78 @@
+@media (max-width: 1300px) {
+  .container > .side {
+    float: none;
+    border-left: none;
+    border-top: 1px lightgrey dotted;
+  }
+}
+
+@media (max-width: 850px) {
+  .header > .wordmark {
+    max-height: 80px;
+    padding: 15px 10px;
+    margin: 15px 10px;
+  }
+
+  .header > .logo {
+    width: 150px;
+  }
+
+  .container {
+    flex-flow: column;
+  }
+
+  .container > .main {
+    width: 94%;
+    margin: auto 3%;
+  }
+  .container > .main > .slide {
+    width: 96%;
+  }
+
+  .container > .side {
+    width: 94%;
+    margin: 3%;
+    flex-flow: row wrap;
+  }
+
+  .container > .side .item {
+    width: 49%;
+  }
+
+  .container > .side .twitter,
+  .container > .side .calendar {
+    width: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  .header > .wordmark {
+    max-height: 64px;
+  }
+
+  .header > .logo {
+    width: 100px;
+  }
+
+  .container > .main .content .article .image {
+    max-width: 100%;
+  }
+
+  .container > .side {
+    flex-flow: column nowrap;
+  }
+
+  .container > .side .item {
+    width: 95%;
+  }
+
+  .container > .side .twitter,
+  .container > .side .calendar {
+    width: 95%;
+  }
+
+  .container > .main .content .item,
+  .container > .main .widget .item {
+    width: 95%;
+  }
+}

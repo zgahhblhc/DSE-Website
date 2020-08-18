@@ -1,0 +1,46 @@
+{
+  "title": "News | Data Science and Engineering Lab",
+  "template": "<ul class='content'>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "DSE Lab",
+      "authorURL": "http://dse.cse.msu.edu",
+      "time": 1482355158000,
+	"article": [
+	    {"text":" <a class=\"twitter-timeline\" href=\"https://twitter.com/dse_msu?ref_src=twsrc%5Etfw\">Tweets by dse_msu</a> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>", "link": "" }
+        {"text": "<span>Oct. 2017</span>Four papers are accepted by WSDM2018.", "link": ""},
+        {"text": "<span>Oct. 2017</span>Dr. Tang is invited to serve as the associate editor of ACM Transactions on Knowledge Discovery from Data (TKDD).", "link": ""},
+        {"text": "<span>Oct. 2017</span>A survey about <a href=\"https://arxiv.org/pdf/1708.01967.pdf\">\"Fake News Detection on Social Media:A Data Mining Perspective\"</a>, <a href=\"https://www.kdnuggets.com/2017/10/guide-fake-news-detection-social-media.html\">KDNuggets Blog</a>, <a href=\"https://www.kdnuggets.com/2017/10/top-news-week-1009-1015.html\">Most Shared Last Week</a>.", "link": ""},
+        {"text": "<span>Oct. 2017</span>Dr. Tang will serve as the information director of ACM Transactions on Knowledge Discovery from Data (TKDD).", "link": ""},
+        {"text": "<span>Sep. 2017</span>Dr. Tang will serve as the proceeding co-chair of KDD18.", "link": ""},
+        {"text": "<span>Sep. 2017</span>One paper is accepted by ACM Computing Surveys.", "link": ""},
+        {"text": "<span>Sep. 2017</span>One paper is accepted by SIGKDD Explorations .", "link": ""},
+        {"text": "<span>Sep. 2017</span>DSE member Zhiwei and Xiangyu received travel awards to attend CIKM2017.", "link": ""},
+        {"text": "<span>Aug. 2017</span>Gratefully receive a NSF grant (IIS-1714741) as the PI to support our research on unsupervised feature selection for big data.", "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1714741&HistoricalAwards=false"},
+        {"text": "<span>Aug. 2017</span>Dr. Tang is invited to give a keynote speech in MLG@KDD.", "link": "http://www.mlgworkshop.org/2017/"},
+        {"text": "<span>Aug. 2017</span>Job Matching Program in KDD2017.", "link": "http://www.kdd.org/kdd2017/job-match"},
+        {"text": "<span>Aug. 2017</span>Four papers are accepted by CIKM2017, especial congratulations to Zhiwei, Tyler and Xiangyu for their first papers with DSE@MSU.", "link": ""},
+        {"text": "<span>Jul. 2017</span>WSDM18 calls for workshop proposals.", "link": "http://www.wsdm-conference.org/2018/call-for-workshop-proposals.html"},
+        {"text": "<span>Jul. 2017</span>Gratefully receive a NSF grant (IIS-1715940) as the PI to support our research on dynamic attributed networks.", "link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1715940&HistoricalAwards=false"},
+        {"text": "<span>Jul. 2017</span>Congratulations to DSE member Tyler Derr for getting the travel award to attend KDD2017 in Halifax Canada.", "link": ""},
+        {"text": "<span>Jul. 2017</span>Congratulations to DSE member Daniel K. Ofori-Dankwa for getting the travel award to attend KDD2017 in Halifax Canada.", "link": ""},
+        {"text": "<span>May. 2017</span>Dr. Jiliang Tang is invited to attend the Adobe Data Science Symposium.", "link": ""},
+        {"text": "<span>May. 2017</span>One paper titled \"Large-scale Location Prediction for Web Pages\" is accepted by IEEE Trans on Knowledge and Data Engineering (TKDE).", "link": ""},
+        {"text": "<span>May. 2017</span>One paper is acctepd by IJCAI2017.", "link": ""},
+        {"text": "<span>May. 2017</span>Congratulations to DSE member Chenxing Wang for graduating with master degree in Statictics. ✿", "link": ""},
+        {"text": "<span>Apr. 2017</span>One paper titled \"Facilitating Time Critical Information Seeking in Social Media\" is accepted by IEEE Trans on Knowledge and Data Engineering.", "link": ""},
+        {"text": "<span>Apr. 2017</span> A tutorial \"Recent Advances in Feature Selection: A Data Perspective\" is accepted by KDD2017.", "link": ""},
+        {"text": "<span>Mar. 2017</span> Congratulations to Tyler to get the award to attend SDM2017 Doctoral Forum in Houston, TX.", "link": ""},
+        {"text": "<span>Dec. 2016</span> DSE has 4 papers accepted by SIAM conference on Data Mining (SDM).", "link": ""},
+        {"text": "<span>Dec. 2016</span> Three papers are accepted by WWW2017", "link": ""},
+        {"text": "<span>Dec. 2016</span> Our survey paper <a href='http://www.public.asu.edu/~skai2/files/kdd_exp_kai.pdf'>'User Identity Linkage across Online Social Netwroks: A Review'</a> is to appear in SIGKDD Explorations", "link": ""},
+        {"text": "<span>Oct. 2016</span>Two papers are accepted by AAAI2017", "link": ""},
+        {"text": "<span>Sep. 2016</span>Dr. Jiliang Tang will serve as the job matching chair of KDD2017", "link": ""},
+        {"text": "<span>Aug. 2016</span>One paper titled 'Delving Deep into Personal Photo and Video Search' is accepted by WSDM2017", "link": ""},
+        {"text": "<span>Jul. 2016</span>Our article about research trends in social media <a href='http://link.springer.com/article/10.1007/s41060-016-0023-0'>'The good, the bad, and the ugly: uncovering novel research opportunities in social media mining'</a>", "link": ""},
+        {"text": "<span>Feb. 2016</span>Keynote Speeches in 2016: <a href='http://trust.sce.ntu.edu.sg/wit-ec16/program.html'>AAAI WIT-EC 2016</a>, <a href='https://cn.aminer.org/bignet16'>Big Network Analytics Workshop</a>", "link": ""}
+      ]
+    }
+  ]
+}

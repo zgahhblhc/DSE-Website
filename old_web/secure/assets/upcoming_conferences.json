@@ -1,0 +1,14 @@
+{
+  "title": "DSE Lab | Secure | Upcoming Conferences",
+  "template": "<article class='article'><h2 class='title' title='TITLE'  style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Upcoming Conferences for DSE Lab members",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+	"image": "",
+	"article": ["<p>&nbsp;&nbsp;&nbsp;&nbsp;The below is the list of conferences (including important dates, links, and other info) that the members of DSE Lab should be planning to submit their work to. Thank you!<br>&nbsp;&nbsp;&nbsp;&nbsp;<ul><li><a href='https://docs.google.com/spreadsheets/d/1nazBoL3vNUCQq7L3P3WFrpRS5DFGGactAsBo1N0DsrE/edit#gid=0'>Upcoming Conferences</a></li></ul></p>"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Events | Data Science and Engineering Lab",
+  "template": "<ul>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "DSE Lab",
+      "authorURL": "http://dse.cse.msu.edu",
+      "time": 1483045908000,
+      "article": [
+        {"text": "<span>Jan. 2017</span> Happy new year from DSE Lab :-)", "link": ""},
+        {"text": "<span>Dec. 2016</span> Merry Christmas to all of you <3", "link": ""},
+        {"text": "<span>Dec. 2016</span> New website live!", "link": ""},
+        {"text": "<span>Dec. 2016</span> Redesigned the whole website.", "link": ""},
+        {"text": "<span>Nov. 2016</span> Gathered around and had a nice lunch.", "link": ""}
+      ]
+    }
+  ]
+}

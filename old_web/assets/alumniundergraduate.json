@@ -1,0 +1,57 @@
+{
+  "title": "",
+  "separator": "<article class='article'><h2 class='title'>Alumni (Undergraduate)</h2></article>",
+  "template": "<div class='item card'><img class='phototwo' title='TITLE' src='IMAGEURL' /><a class='meta' title='Link to: AUTHOR' href='AUTHORURL' target='_blank'><h2 class='title'>TITLE</h2><p class='caption'>ARTICLE</p></a></div>",
+  "chain": "",
+  "contents": [
+      {
+	  "title": "Bryan Hendryx",
+	  "author": "Bryan Hendryx",
+	  "authorURL": "#",
+	  "time": 1482264848000,
+	  "image": "bryan.jpg",
+	  "article": "Undergraduate/Computer Science"
+      },
+      {
+	  "title": "Pegah Varghaei",
+	  "author": "Pegah Varghaei",
+	  "authorURL": "#",
+	  "time": 1490081779747,
+	  "image": "pegah.jpg",
+	  "article": "Undergraduate/Computational Mathematics <br> Now: PhD student in CMSE at MSU"
+	
+      },
+      {
+	  "title": "Hannah Striebel",
+	  "author": "Hannah Striebel",
+	  "authorURL": "http://cse.msu.edu/~striebe5/",
+	  "time": 1490081779747,
+	  "image": "hannah.jpg",
+	  "article": "Undergraduate/Computational Mathematics"
+      },
+      {
+	  "title": "Mitansh Madan",
+	  "author": "Mitansh Madan",
+	  "authorURL": "#",
+	  "time": 1490081779747,
+	  "image": "mitansh.png",
+	  "article": "Undergraduate/Computer Science"
+      },
+      {
+      "title": "Hansheng Zhao",
+      "author": "Hansheng Zhao",
+      "authorURL": "https://www.zhs.me/",
+      "time": 1482264913000,
+      "image": "hansheng.jpg",
+      "article": "Undergraduate/Computer Science <br> Now: Technical business analyst at Indeed"
+    },
+    {
+      "title": "Cassidy Johnson",
+      "author": "Cassidy Johnson",
+      "authorURL": "#",
+      "time": 1490081779747,
+      "image": "cassidy.png",
+      "article": "Undergraduate/Computer Science & Applied Mathematics"
+    }
+  ]
+}

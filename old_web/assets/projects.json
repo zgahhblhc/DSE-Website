@@ -1,0 +1,38 @@
+{
+  "title": "Projects | Data Science and Engineering Lab",
+  "template": "<article class='article'><h2 class='title' title='TITLE'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "<a href=\"./signed\">Signed Network Analysis</a>",
+      "author": "DSE Lab",
+      "authorURL": "http://dse.cse.msu.edu",
+      "time": 1483118860000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp;Many real-world relations can be represented by signed networks with positive and negative links, as a result of which signed network analysis has attracted increasing attention from multiple disciplines. In this project, we systematically investigate many aspects of signed social network from network models and measurements to network mining and applications."
+    },
+    {
+      "title": "<a href=\"./#\">Feature and Similarity Learning</a>",
+      "author": "DSE Lab",
+      "authorURL": "http://dse.cse.msu.edu",
+      "time": 1483118892000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp;Many real-world applications strongly rely on appropriate feature representations and similarity metrics. Feature and similarity learning have been extensively studied. When entering into the era of big data, it becomes increasingly challenging to apply conventional approaches. In this project, we design novel algorithms and construct systems of feature and similarity learning corresponding to the well-known 3V characteristics of big data – volume, variety and velocity."
+    },
+    {
+      "title": "<a href=\"./#\">Making Sense of Human Behavior and Predicting Human Decision</a>",
+      "author": "DSE Lab",
+      "authorURL": "http://dse.cse.msu.edu",
+      "time": 1483118935000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp;Online social activities have become an integral part of people’s lives. The unprecedented volume of social data provides immense opportunities to answer fundamental questions about human behaviors. The procedures of seeking answers for these questions drive us deeper understandings about human behaviors that in turn offer us unique advantages to predict human decisions. In this project, we leverage social media as sensors to make sense of human behaviors and predict human decision in terms of public health, politics, crisis and disasters."
+    },
+    {
+      "title": "<a href=\"./#\">Misinformation and Information Credibility</a>",
+      "author": "DSE Lab",
+      "authorURL": "http://dse.cse.msu.edu",
+      "time": 1483118972000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp; Social media has greatly enabled people to participate in online activities and shattered the barrier for online users to create and share information at any place at any time. Meanwhile social media users are highly connected and information can propagate quickly and easily reach a massive amount of users. However, the open and connected nature also makes it an ideal channel to spread misinformation. Addressing the information credibility problem becomes increasingly important and necessary to provide healthy, trustworthy and reliable online worlds. In this project, we examine misinformation from macro and micro perspectives and develop effective algorithms and systems to detect and intervene misinformation. "
+    }
+  ]
+}

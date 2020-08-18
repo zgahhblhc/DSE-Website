@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang='en-US'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='author' content='Dr. Jiliang Tang' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+
+    <link rel='stylesheet' href='../css/normalize.css'  />
+    <link rel='stylesheet' href='../css/initial.css' />
+    <link rel='stylesheet' href='../css/header.css' />
+    <link rel='stylesheet' href='../css/container.css' />
+    <link rel='stylesheet' href='../css/footer.css' />
+    <link rel='stylesheet' href='../css/mediaquery.css' />
+
+    <script type='text/javascript' src='../js/jquery.js' defer></script>
+    <script type='text/javascript' src='../js/jquery.mobile.js' defer></script>
+    <script type='text/javascript' src='../js/lodash.js' defer></script>
+    <script type='text/javascript' src='../js/chart.js' defer></script>
+    <script type='text/javascript' src='./js/script.js' defer></script>
+    <style>
+      .widget ul li,
+      .side ul li {
+        width: 100%;
+      }
+    </style>
+
+    <title id='title'>Welcome! | CSE881 Data Mining | Spring 2017</title>
+  </head>
+  <body>
+    <header>
+      <img class='wordmark' title='MSU' alt='MSU Wordmark' src='../assets/MSU_Wordmark.svg' />
+      <div class='title'>CSE881 Data Mining | Spring 2017</div>
+      <nav class='navi'>
+        <ul class='list'>
+          <li><a class='button active' data-storage='home' onclick=''>Home</a></li>
+          <li><a class='button' data-storage='policy' onclick=''>Policy</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class='container' id='container'>
+      <div class='main'>
+        <div class='slide' id='slide'>
+          <img class='image' id='slideshowImage' alt='slideshow' src='./assets/slide.jpg' />
+          <span class='caption title' id='slideshowTitle'>
+            <!-- <span class='loader' style='width: 24px; height: 24px; border: none;'>Loading</span> -->
+            CSE881 Data Mining Spring 2017
+          </span>
+          <span class='caption content' id='slideshowContent'>By Dr.Jiliang Tang at 342 Case Hall on Mon, Wed 3:00 – 4:20pm.<span style='font-size: 10px; float: right;'>Photograph courtesy of MSU Photo Service.</span></span>
+        </div>
+
+        <div id='content' class='content'>
+          <div class='loader' style='width: 35px; height: 35px;'></div>
+        </div>
+
+        <div class='widget' id='widget'>
+          <div class='item list' id='news'></div>
+          <div class='item list' id='outline'></div>
+        </div>
+      </div>
+
+      <div class='side' id='side'>
+        <div class='item list' id='info'></div>
+        <div class='item list' id='book'></div>
+        <div class='item list' id='assess'></div>
+        <div class='item list' id='grade'></div>
+      </div>
+    </div>
+
+    <footer>
+      <img class='seal' title='MSU' alt='MSU Seal' src='../assets/MSU_Seal.svg' />
+      <div class='element'>
+        <p class='title'>CSE 881</p>
+        <p>&copy; Copyright <b>Dr. Jiliang Tang</b></p>
+        <p>2017 All Rights Reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

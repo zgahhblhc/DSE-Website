@@ -1,0 +1,14 @@
+{
+  "title": "DSE Lab | Misinformation and Information Credibility | Overview",
+  "template": "<article class='article'><h2 class='title' title='TITLE' style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Misinformation and Information Credibility",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "image": "",
+      "article": ["&nbsp;&nbsp;&nbsp;&nbsp;Social media has greatly enabled people to participate in online activities and shattered the barrier for online users to create and share information at any place at any time. Meanwhile social media users are highly connected and information can propagate quickly and easily reach a massive amount of users. However, the open and connected nature also makes it an ideal channel to spread misinformation. Addressing the information credibility problem becomes increasingly important and necessary to provide healthy, trustworthy and reliable online worlds. In this project, we examine misinformation from macro and micro perspectives and develop effective algorithms and systems to detect and intervene misinformation.<br><br><b>Current Graduate Students:</b>&nbsp;&nbsp;&nbsp;&nbsp;<ul><li><a href='http://www.cse.msu.edu/~karimiha'>Hamid Karimi</a></li></ul>"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Welcome! | Data Science and Engineering Lab",
+  "template": "<article class='article'><h2 class='title' title='TITLE'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Description",
+      "author": "DSE Lab",
+      "authorURL": "http://dse.cse.msu.edu",
+      "time": 1482347455000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp;Our lab at Michigan State University focuses on two aspects of big data research: data science and data engineering. In data science, we aspire to develop data mining and machine learning algorithms to discover unknown and actionable patterns hidden deep inside big data. In data engineering, we strive to design and construct architectures and systems to enable big data management and analytics."
+    }
+  ]
+}

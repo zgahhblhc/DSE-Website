@@ -1,0 +1,31 @@
+How to create a blog post on the DSE website
+============================================
+
+1) ssh into one of the cse servers (e.g., black.cse.msu.edu)
+
+2) change directory to /research/tangjili/web/blog
+
+3) copy the file dec_1_2018.html to a new file (e.g., cp
+dec_1_2018.html dec_18_2018.html) this will be the file you add the
+content for your blog post
+
+4) you can edit your newly created html file as you see fit, it will
+have an example how to create the title, text, images, and references
+
+5) now add your new blog post to the home page by opening
+/research/tangjili/web/blog/assests/home.json
+
+5a) first create a backup copy of this file (i.e., cp
+/research/tangjili/web/blog/assests/home.json
+/research/tangjili/web/blog/assests/home.json.bak)
+
+5b) in this file (i.e., not the .bak version) you can add another
+<li>...</li> list element similar to the ones found there already
+
+6) You should go to www.dse.cse.msu.edu/blog to test if your blog is
+listed correctly and then follow the link to ensure the page looks as
+expected
+
+7) please make sure the file
+/research/tangjili/web/blog/assests/home.json and .bak version have
+the permissions 664 and group 'dse', similarly for your blog html file

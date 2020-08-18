@@ -1,0 +1,19 @@
+{
+  "title": "People | Data Science and Engineering Lab",
+  "separator": "<article class='article'><h2 class='title'>Undergraduate Students</h2></article>",
+  "template": "<div class='item card'><img class='photo' title='TITLE' src='IMAGEURL' /><a class='meta' title='Link to: AUTHOR' href='AUTHORURL' target='_blank'><h2 class='title'>TITLE</h2><p class='caption'>ARTICLE</p></a></div>",
+  "chain": "visitsch",
+  "contents": [
+    {
+      "title": "Aaron Brookhouse",
+      "author": "Aaron Brookhouse",
+      "authorURL": "#",
+      "time": 1490081779747,
+      "image": "aaron.png",
+      "article": "Undergraduate/Electrical Engineering"
+    }
+
+      
+
+  ]
+}

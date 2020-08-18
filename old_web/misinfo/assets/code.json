@@ -1,0 +1,14 @@
+{
+  "title": "DSE Lab | Misinformation and Information Credibility | Code",
+  "template": "<article class='article'><h2 class='title' title='TITLE' style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Our Code Repositories for Misinformation Project",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "image": "",
+      "article": ["&nbsp;&nbsp;&nbsp;&nbsp;Currently under construction... we will place links to our code here."]
+    }
+  ]
+}

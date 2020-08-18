@@ -1,0 +1,54 @@
+{
+  "slides": [
+    {
+      "image": "group1.jpg",
+      "title": "Group Photo Fall 2019",
+      "content": "A group photo of DSE members."
+    },
+    {
+      "image": "lakelansing-1.jpg",
+      "title": "Volleyball at Lake Lansing",
+      "content": "Group sprots at Lake Lansing with DSE members. <span style=\"font-size: 10px; float: right;\">Photograph courtesy of DSE Lab.</span>"
+    },
+    {
+      "image": "group2.jpg",
+      "title": "Group Photo Fall 2019",
+      "content": "A group photo of DSE members."
+    },
+    {
+      "image": "lakelansing-2.jpg",
+      "title": "Barbeque at Lake Lansing",
+      "content": "BBQ at Lake Lansing to celebrate the end of the 2017 Spring semester. <span style=\"font-size: 10px; float: right;\">Photograph courtesy of DSE Lab.</span>"
+    },
+    {
+      "image": "meeting-0.jpg",
+      "title": "DSE Meetings",
+      "content": "DSE has weekly meetings every week where members share their insights. <span style=\"font-size: 10px; float: right;\">Photograph courtesy of DSE Lab.</span>"
+    },
+    {
+      "image": "lecture-1.jpg",
+      "title": "DSE Lecture",
+      "content": "Presented by Tyler Derr, this is one of our many lecture offerings. <span style=\"font-size: 10px; float: right;\">Photograph courtesy of DSE Lab.</span>"
+    },
+    {
+      "image": "lecture-0.jpg",
+      "title": "DSE Lecture",
+      "content": "Thanks to our wonderful member, we have successfully hosted several open lectures. <span style=\"font-size: 10px; float: right;\">Photograph courtesy of DSE Lab.</span>"
+    },
+    {
+      "image": "chinese-new-year.jpg",
+      "title": "New Years Gathering 2018",
+      "content": "Members of DSE Labs gathered to celebrate Chinese New Year. <span style=\"font-size: 10px; float: right;\">Photograph courtesy of DSE Lab.</span>"
+    },
+    {
+      "image": "msu-bell-tower.jpg",
+      "title": "Welcome To DSE <3",
+      "content": "Thank you for visiting, we hope you have a wonderful day! <span style=\"font-size: 10px; float: right;\">Photograph courtesy of MSU Photo Service.</span>"
+    },
+    {
+      "image": "lakelansing-0.jpg",
+      "title": "Travel to Lake Lansing",
+      "content": "At this beautifulday, DSE members traveled to Lake Lansing :-) <span style=\"font-size: 10px; float: right;\">Photograph courtesy of DSE Lab.</span>"
+    }
+  ]
+}

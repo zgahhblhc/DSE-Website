@@ -1,0 +1,121 @@
+{
+  "title": "People | Data Science and Engineering Lab",
+  "separator": "<article class='article'><h2 class='title'>Graduate Students</h2></article>",
+  "template": "<div class='item card'><img class='photo' title='TITLE' src='IMAGEURL' /><a class='meta' title='Link to: AUTHOR' href='AUTHORURL' target='_blank'><h2 class='title'>TITLE</h2><p class='caption'>ARTICLE</p></a></div>",
+  "chain": "undergrad",
+  "contents": [
+    {
+      "title": "Tyler Derr",
+      "author": "Tyler Derr",
+      "authorURL": "http://www.cse.msu.edu/~derrtyle/",
+      "time": 1482264563000,
+      "image": "tyler.jpg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Zhiwei Wang",
+      "author": "Zhiwei Wang",
+      "authorURL": "http://www.cse.msu.edu/~wangzh65/",
+      "time": 1482264679000,
+      "image": "zhiwei.jpg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Xiangyu Zhao",
+      "author": "Xiangyu Zhao",
+      "authorURL": "http://www.cse.msu.edu/~zhaoxi35/",
+      "time": 1482265117000,
+      "image": "xiangyu.jpg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Yao Ma",
+      "author": "Yao Ma",
+      "authorURL": "http://cse.msu.edu/~mayao4/",
+      "time": 1482265205000,
+      "image": "yao.jpg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Hamid Karimi",
+      "author": "Hamid Karimi",
+      "authorURL": "http://cse.msu.edu/~karimiha",
+      "time": 1490081583000,
+      "image": "hamid.jpg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Xiaorui Liu",
+      "author": "Xiaorui Liu",
+      "authorURL": "http://cse.msu.edu/~xiaorui/",
+      "time": 1490081583000,
+      "image": "xiaorui.jpg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Haochen Liu",
+      "author": "Haochen Liu",
+      "authorURL": "http://www.cse.msu.edu/~liuhaoc1/",
+      "time": 1490081583000,
+      "image": "haochen.jpeg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Han Xu",
+      "author": "Han Xu",
+      "authorURL": "https://cse.msu.edu/~xuhan1/",
+      "time": 1490081583000,
+      "image": "han.jpg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Jamell Dacon",
+      "author": "Jamell Dacon",
+      "authorURL": "http://cse.msu.edu/~daconjam/",
+      "time": 1490081583000,
+      "image": "jamell.jpeg",
+      "article": "PhD/Computer Science"
+    },
+    {
+      "title": "Wentao Wang",
+      "author": "Wentao Wang",
+      "authorURL": "http://www.cse.msu.edu/~wangw116",
+      "time": 1490081583000,
+      "image": "wentao.jpg",
+      "article": "PhD/Computer Science"
+    },
+    {
+	"title": "Wei Jin",
+      "author": "Wei Jin",
+      "authorURL": "http://www.cse.msu.edu/~jinwei2/",
+	"time": 1490081583000,
+	"image": "wei.png",
+      "article": "PhD/Computer Science"
+    },
+    {
+        "title": "Yaxin Li",
+      "author": "Yaxin Li",
+      "authorURL": "http://cse.msu.edu/~liyaxin1/",
+        "time": 1490081583000,
+        "image": "yaxin.jpeg",
+      "article": "PhD/Computer Science"
+    },
+    {
+        "title": "Yiqi Wang",
+      "author": "Yiqi Wang",
+      "authorURL": "http://cse.msu.edu/~wangy206/",
+        "time": 1490081583000,
+        "image": "yiqi.jpeg",
+      "article": "PhD/Computer Science"
+    },
+    {
+        "title": "Namratha Shah",
+      "author": "Namratha Shah",
+      "authorURL": "https://www.linkedin.com/in/namratha-shah/",
+        "time": 1490081583000,
+        "image": "namratha.jpeg",
+      "article": "Master/Computer Science"
+    }
+
+  ]
+}

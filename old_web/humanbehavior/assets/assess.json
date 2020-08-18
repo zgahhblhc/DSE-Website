@@ -1,0 +1,18 @@
+{
+  "title": "Course Assessment | CSE881 Data Mining",
+  "template": "<ul>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "article": [
+        {"text": "<span>Homework:</span> 45%", "link": ""},
+        {"text": "<span>Projects:</span> 25%", "link": ""},
+        {"text": "<span>Class Participation:</span> 5%", "link": ""},
+        {"text": "<span>Exams:</span> 25%", "link": ""}
+      ]
+    }
+  ]
+}

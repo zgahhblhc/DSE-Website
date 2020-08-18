@@ -1,0 +1,449 @@
+.container {
+  min-height: 64%;
+  margin: 10px auto;
+  border: 1px lightgrey solid;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-content: flex-start;
+  background: white;
+  opacity: 0.85;
+  -webkit-box-shadow: 2px 2px 5px rgba(50, 50, 50, 0.5);
+  -moz-box-shadow: 2px 2px 5px rgba(50, 50, 50, 0.5);
+  box-shadow: 2px 2px 5px rgba(50, 50, 50, 0.5);
+}
+
+.container > .main {
+  width: 69%;
+  margin: 0 auto;
+  display: flex;
+  flex-basis: auto;
+  flex-flow: column nowrap;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.container > .main .slide {
+  margin: 25px auto auto auto;
+  width: 100%;
+  align-items: center;
+  border: 1px lightgrey dotted;
+  box-shadow: 1px 2px 3px #444, 0px 1px 2px #aaa;
+}
+
+.container > .main .slide {
+  width: 100%;
+  margin: 10px auto;
+  display: inline-block;
+}
+
+.container > .main .slide .image {
+  width: 100%;
+  height: 300px;
+  margin-bottom: -40px;
+  position: relative;
+  z-index: 0;
+}
+
+.container > .main .slide .caption {
+  margin: 0;
+  padding: 0 2.5%;
+  width: 95%;
+  min-height: 35px;
+  line-height: 35px;
+  max-height: 65px;
+  display: block;
+  color: white;
+  background: black;
+  opacity: 0.64;
+  position: relative;
+  z-index: 100;
+  text-shadow: 0 1px 2px #444, 0 1px 0 #222;
+  text-overflow: clip;
+  overflow: hidden;
+}
+
+.container > .main .slide .title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: lighter;
+  font-family: UbuntuRegular, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+.container > .main .slide .content {
+  display: none;
+  height: 65px;
+  text-align: justify;
+  text-align-last: left;
+  line-height: 20px;
+  font-size: 18px;
+  font-weight: lighter;
+  font-family: UbuntuLight, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+.container > .main .slide:hover .image,
+.container > .main .slide:focus .image {
+  margin-bottom: -105px;
+}
+
+.container > .main .slide:hover .content,
+.container > .main .slide:focus .content {
+  display: block;
+}
+
+.container > .main .content,
+.container > .main .widget {
+  margin: 10px auto;
+  display: flex;
+  flex-basis: auto;
+  flex-flow: row wrap;
+  align-item: flex-start;
+  align-content: flex-start;
+}
+
+.container > .main .widget {
+  margin-bottom: 50px;
+}
+
+.container > .side {
+  float: right;
+  margin: 15px auto;
+  padding: 0;
+  width: 28%;
+  display: flex;
+  flex-basis: auto;
+  flex-flow: column nowrap;
+  align-item: flex-start;
+  align-content: flex-start;
+}
+
+.container > .main .content .article {
+  width: 100%;
+  margin-bottom: 10px;
+  /*border-bottom: 1px #cccccc solid;*/
+}
+
+.container > .main .content .article .title {
+  height: auto;
+  font-size: 32px;
+  margin: 15px auto auto auto;
+  text-align: right;
+  text-shadow: 0 1px 2px #888, 0 1px 0 #eee;
+  transition: color 0.25s, background-color 0.25s;
+  -moz-transition: color 0.25s, background-color 0.25s;
+  -webkit-transition: color 0.25s, background-color 0.25s;
+  -o-transition: color 0.25s, background-color 0.25s;
+  font-family: UbuntuLight, AuraBlue, helvetica, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+.container > .main .content .article .title {
+  color: #444444;
+  background-color: #f0f0f0;
+  transition: color 0.25s, background-color 0.25s;
+  -moz-transition: color 0.25s, background-color 0.25s;
+  -webkit-transition: color 0.25s, background-color 0.25s;
+  -o-transition: color 0.25s, background-color 0.25s;
+}
+
+/**
+.container > .main .content .article:hover .title,
+.container > .main .content .article:focus .title {
+  color: #444444;
+  background-color: #f0f0f0;
+  transition: color 0.25s, background-color 0.25s;
+  -moz-transition: color 0.25s, background-color 0.25s;
+  -webkit-transition: color 0.25s, background-color 0.25s;
+  -o-transition: color 0.25s, background-color 0.25s;
+}
+*/
+
+.container > .main .content .article .image {
+  max-width: 320px;
+  height: auto;
+  margin: 5px 20px 5px 0px;
+  float: left;
+}
+
+.container > .main .content .article p {
+  margin: 10px auto;
+  text-align: justify;
+  text-align-last: left;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: lighter;
+  font-family: UbuntuLight, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+.container > .main .content .more {
+  float: right;
+  margin: auto;
+  font-size: 24px;
+}
+
+.container > .main .content .meta {
+  width: 100%;
+  margin: 3px 50px;
+  color: #8BC34A;
+  font-size: 21px;
+  font-family: Starck, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+.container > .main .content .item,
+.container > .main .widget .item {
+  width: 49%;
+  margin: 5px auto;
+  align-self: auto;
+  border-radius: 15px;
+}
+
+.container > .side .item {
+  width: 100%;
+  margin: 5px auto;
+  align-self: auto;
+  border-bottom: 1px lightgrey dotted;
+}
+
+.container > .main .content .item,
+.container > .main .widget .item,
+.container > .side .item {
+    background: repeating-linear-gradient(
+    120deg,
+    #fdfdfd,
+    #fbfbfb 2px,
+    #f9f9f9 2px,
+    #eeeeee 5px
+  );
+}
+
+/**
+.container > .main .content .item:hover,
+.container > .main .widget .item:hover,
+.container > .side .item:hover {
+    background: repeating-linear-gradient(
+    120deg,
+    #fdfdfd,
+    #fbfbfb 2px,
+    #f9f9f9 2px,
+    #eeeeee 5px
+  );
+}
+*/
+
+.container > .main .content .card .photo,
+.container > .main .widget .card .photo {
+  height: 200px;
+  margin: 10px 5%;
+  border-radius: 12%;
+  box-shadow: 2px 2px 4px grey, -1px 2px 3px lightgrey;
+}
+
+.container > .main .content .card .phototwo,
+.container > .main .widget .card .phototwo {
+  height: 100px;
+  margin: 10px 5%;
+  border-radius: 12%;
+  box-shadow: 2px 2px 4px grey, -1px 2px 3px lightgrey;
+}
+
+.container > .main .content .card .title,
+.container > .main .widget .card .title,
+.container > .main .content .list .title,
+.container > .main .widget .list .title
+/**.container > .side .list .title,
+.container > .side .contact .title*/ {
+  font-size: 35px;
+  line-height: 50px;
+  margin: 10px auto;
+  text-align: center;
+  border-radius: 15px 0 15px 0;
+  transition: color 0.25s, background-color 0.25s;
+  -moz-transition: color 0.25s, background-color 0.25s;
+  -webkit-transition: color 0.25s, background-color 0.25s;
+  -o-transition: color 0.25s, background-color 0.25s;
+  font-family: Grounday, AuraBlue, helvetica, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+.container > .main .content .list .subtitle,
+.container > .main .widget .list .subtitle,
+.container > .side .list .subtitle {
+  height: auto;
+  font-size: 15px;
+  line-height: 15px;
+  text-align: center;
+  font-family: UbuntuLight, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+.container > .main .content .card .title,
+.container > .main .widget .card .title,
+.container > .main .content .list .title,
+.container > .main .widget .list .title
+/**.container > .side .list .title,
+.container > .side .contact .title*/ {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.32);
+  text-shadow: 0 1px 2px #888, 0 1px 0 #444;
+  transition: color 0.25s, background-color 0.25s;
+  -moz-transition: color 0.25s, background-color 0.25s;
+  -webkit-transition: color 0.25s, background-color 0.25s;
+  -o-transition: color 0.25s, background-color 0.25s;
+}
+
+/**
+.container > .main .content .card:hover .title,
+.container > .main .widget .card:hover .title,
+.container > .main .content .list:hover .title,
+.container > .main .widget .list:hover .title,
+.container > .side .list:hover .title,
+.container > .side .contact:hover .title {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.32);
+  text-shadow: 0 1px 2px #888, 0 1px 0 #444;
+  transition: color 0.25s, background-color 0.25s;
+  -moz-transition: color 0.25s, background-color 0.25s;
+  -webkit-transition: color 0.25s, background-color 0.25s;
+  -o-transition: color 0.25s, background-color 0.25s;
+}
+*/
+
+.container > .main .widget .list .content{
+  height: 500px;
+  overflow-y: scroll;
+}
+
+.container > .main .content .card .caption,
+.container > .main .widget .card .caption {
+  color: orange;
+  margin: 5px auto;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  font-family: UbuntuRegular, Tahoma, Verdana, Arial, sans-serif, serif;
+}
+
+.container > .main .content .card .meta,
+.container > .main .widget .card .meta,
+.container > .main .content .list .meta,
+.container > .main .widget .list .meta ,
+.container > .side .list .meta {
+  font-size: 20px;
+  color: grey;
+}
+
+.container > .main .content .article ul,
+.container > .main .content .list ul,
+.container > .main .widget .list ul,
+.container > .side .list ul {
+  padding: 0 15px;
+}
+
+.container > .main .content .list ul li,
+.container > .main .widget .list ul li,
+.container > .side .list ul li {
+  min-height: 20px;
+  margin: 5px 2px;
+  border-radius: 5px 0 5px 0;
+  /**border-left: 1px grey solid;*/
+  /**border-right: 1px grey solid;*/
+  transition: background 0.25s;
+  -moz-transition: background 0.25s;
+  -webkit-transition: background 0.25s;
+  -o-transition: background 0.25s;
+}
+
+.container > .main .content .article ul li,
+.container > .main .content .list ul li,
+.container > .main .widget .list ul li {
+  /**border-left: 1px grey solid;*/
+  margin: 12px auto;
+  padding: 2px 5px;
+  display: block;
+}
+
+.container > .main .content .article ul li:nth-of-type(odd),
+.container > .main .content .list ul li:nth-of-type(odd),
+.container > .main .widget .list ul li:nth-of-type(odd),
+.container > .side .list ul li:nth-of-type(odd) {
+  background: rgba(200, 200, 200, 0.5);
+}
+
+.container > .main .content .list ul li:hover,
+.container > .main .widget .list ul li:hover,
+.container > .side .list ul li:hover {
+  background: rgba(0, 0, 0, 0.36);
+  transition: background 0.25s;
+  -moz-transition: background 0.25s;
+  -webkit-transition: background 0.25s;
+  -o-transition: background 0.25s;
+}
+
+.container > .main .content .article ul li a,
+.container > .main .content .list ul li a,
+.container > .main .widget .list ul li a,
+.container > .side .list ul li a {
+  line-height: 20px;
+  font-family: UbuntuRegular, serif, helvetica, Tahoma, Verdana, Arial, sans-serif;
+}
+
+.container > .main .content .list ul li:hover,
+.container > .main .widget .list ul li:hover,
+.container > .side .list ul li:hover,
+.container > .main .content .list ul li:hover a,
+.container > .main .widget .list ul li:hover a,
+.container > .side .list ul li:hover a {
+  color: white;
+  transition: color 0.25s, background 0.25s;
+  -moz-transition: color 0.25s, background 0.25s;
+  -webkit-transition: color 0.25s, background 0.25s;
+  -o-transition: color 0.25s, background 0.25s;
+}
+
+.container > .main .content ul li span,
+.container > .main .content .list ul li span,
+.container > .main .widget .list ul li span,
+.container > .side .list ul li span,
+.container > .side .contact span {
+  color: white;
+  line-height: 20px;
+  padding: 0 5px;
+  background: rgba(69, 69, 69, 0.5);
+  border-radius: 5px;
+  transition: color 0.25s, background 0.25s;
+  -moz-transition: color 0.25s, background 0.25s;
+  -webkit-transition: color 0.25s, background 0.25s;
+  -o-transition: color 0.25s, background 0.25s;
+}
+
+.container > .main .content .list ul li:hover span,
+.container > .main .widget .list ul li:hover span,
+.container > .side .list ul li:hover span {
+  color: black;
+  background: rgba(250, 250, 250, 0.5);
+  border-radius: 5px;
+  transition: color 0.25s, background 0.25s;
+  -moz-transition: color 0.25s, background 0.25s;
+  -webkit-transition: color 0.25s, background 0.25s;
+  -o-transition: color 0.25s, background 0.25s;
+}
+
+.container > .side .twitter a.twitter-timeline {
+  /* Buttonish */
+  display: inline-block;
+  padding: 6px 12px 6px 12px;
+  margin: 10px 0;
+  border: #ccc solid 1px;
+  border-radius: 3px;
+  /* Text */
+  font: normal 12px/18px Helvetica, Arial, sans-serif;
+  color: #333;
+  white-space: nowrap;
+}
+
+.container > .side .twitter .twitter-timeline:hover,
+.container > .side .twitter .twitter-timeline:focus {
+  background-color: #dedede;
+}
+
+.container > .side .twitter .twitter-timeline:focus {
+  outline: none;
+  border-color: #0089cb;
+}

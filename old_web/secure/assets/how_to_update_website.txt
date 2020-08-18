@@ -1,0 +1,28 @@
+====================================================================
+The files for the lab website can be found on the cse server (e.g.,
+arctic.cse.msu.edu or black.cse.msu.edu):
+====================================================================
+/research/tangjili/web/
+
+
+====================================================================
+How to update the people
+====================================================================
+The index.html file loads the people.json file first.
+Then the people file currently only loads JT, but has the line
+"chain": "graduate"
+which will load the graduate students next via the file
+graduate.json
+This chaining continues through:
+undergrad, alumnipostdoc, alumnigraduate, and alumniundergraduate
+
+In the graduate.json file you can just copy and past the last {user}
+and add a new one with the new material (e.g., title, image, and url)
+
+
+====================================================================
+How to update the publications
+====================================================================
+
+If in the same year, just adding a new <li>
+If in a new year, just copy the {} for the previous year and adjust as needed.

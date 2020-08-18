@@ -1,0 +1,17 @@
+{
+  "title": "Reference Books | CSE881 Data Mining",
+  "template": "<ul class='content'>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "article": [
+        {"text": "There is no main textbook for the class. However, you may use materials from the following books as a reference. Lecture slides and additional reading materials will be provided on the class website.", "link": ""},
+        {"text": "<span>Book 1:</span> Introduction to Data Mining by Tan, Steinbach and Kumar, Addison Wesley (2006) Sample chapters of the book are available <a href='http://www.cs.umn.edu/~kumar/dmbook' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>", "link": ""},
+        {"text": "<span>Book 2:</span> Mining of Massive Datasets by Leskovec, Rajaraman, and Ullman, 2nd Edition, Cambridge University Press (2014), available <a href='http://www.mmds.org' target='_blank'>&gt;&gt;&gt;HERE&lt;&lt;&lt;</a>", "link": ""}
+      ]
+    }
+  ]
+}

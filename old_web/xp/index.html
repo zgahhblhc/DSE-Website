@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Hansheng Zhao"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="stylesheet" type="text/css" href="./css/dist.bulma.min.css"/>
+
+    <link rel="stylesheet" type="text/css" href="./css/style.init.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/style.header.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/style.footer.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/style.mediaquery.css"/>
+
+    <title id="title">{{title}} | Data Science and Engineering Lab</title>
+  </head>
+
+  <body>
+    <header class="header">
+      <img class="wordmark" src="./assets/images/MSU_Wordmark.svg" title="Michigan State University" alt="MSU Wordmark" />
+      <!--div class='title'><img src="./assets/images/DSE_Logo.png"/>Data Science and Engineering Lab</div-->
+      <div class='logo'><canvas id='logo'></canvas>Data Science and Engineering Lab</div>
+      <navi-division id="navi" :active="active" :anchors="anchors" @navigate="navigate"></navi-division>
+    </header>
+
+    <div class="container">
+      <div class="main">
+        <slide-division></slide-division>
+        <widget-division id="widget" :widgets="widgets"></widget-division>
+      </div>
+      <div class="side"></div>
+    </div>
+
+    <footer>
+      <img class='seal' title='MSU' alt='MSU Seal' src='./assets/images/MSU_Seal.svg' />
+      <div class='element'>
+        <p class='title'>DSE Lab</p>
+        <p>&copy; Copyright <b>DSE Lab</b></p>
+        <p>A MSU CSE Dpt.</p>
+        <p>2017 All Rights Reserved.</p>
+      </div>
+    </footer>
+    <script data-main="./js/script.init" src="./js/dist.require.js" defer></script>
+  </body>
+</html>

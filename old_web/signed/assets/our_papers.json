@@ -1,0 +1,155 @@
+{
+    "title": "DSE Lab | Signed Networks | Our Papers",
+    "template": "<article class='article'><h2 class='title' title='TITLE' style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+    "contents": [
+	{
+	    "title": "DSE Lab Signed Network Publications",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["&nbsp;&nbsp;&nbsp;&nbsp;Below is a list of all the publications related to Signed Networks where one of the authors is from the DSE Lab. <br><br><br><br><br><br>"]
+	},
+
+	{
+	    "title": "Publications in 2020",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["<ul>",
+			"<li>Amin Javari, Tyler Derr, Pouya Esmalian, Jiliang Tang, and Kevin Chen-Chuan Chang<br /><a href='https://dl.acm.org/doi/abs/10.1145/3366423.3380038' target='_black'>ROSE: Role-based Signed Network Embedding</a><br /> Proceedings of the 29th International Conference on The World Wide Web (WWW), 2020. <a href='http://www.cse.msu.edu/~derrtyle/papers/www20-rolebased_signed_embedding.pdf' target='_black'>(Local copy)</a></li>",
+			
+			"<li>Tyler Derr, Zhiwei Wang, Jamell Dacon, and Jiliang Tangr<br /><a href='https://link.springer.com/content/pdf/10.1007/s13278-020-0630-6.pdf' target='_black'>Link and Interaction Polarity Predictions in Signed Networks</a><br /> Social Network Analysis and Mining (SNAM), 2020. </li>",
+
+			"<li>Tyler Derr<br /><a href='http://www.cse.msu.edu/~derrtyle/papers/wsdm2020-network_analysis_with_negative_links.pdf' target='_black'>Network Analysis with Negative Links</a><br /> Proceedings of the 13th ACM International Conference on Web Search and Data Mining (WSDM), 2020. <a href='http://www.cse.msu.edu/~derrtyle/papers/wsdm2020-network_analysis_with_negative_links.pdf' target='_black'>(Local copy)</a></li>",
+			"</ul>"]
+	},
+
+	
+	{
+	    "title": "Publications in 2019",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["<ul>",
+
+			"<li>Tyler Derr, Cassidy Johnson, Yi Chang, and Jiliang Tang<br /><a href='http://www.cse.msu.edu/~derrtyle/papers/cikm2019-signed_bipartite_networks.pdf' target='_black'>Balance in Signed Bipartite Networks</a><br />Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM), 2019 <a href='http://www.cse.msu.edu/~derrtyle/papers/cikm2019-signed_bipartite_networks.pdf' target='_blank'>(Local copy)</a></li>",
+
+			
+			"<li>Tyler Derr, Hamid Karimi (co-first author), Aaron Brookhouse, and Jiliang Tang<br /><a href='http://www.cse.msu.edu/~derrtyle/papers/asonam19-congressional_vote_prediction.pdf' target='_black'>Multi-Factor Congressional Vote Prediction</a><br />Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2019 <a href='http://www.cse.msu.edu/~derrtyle/papers/asonam19-congressional_vote_prediction.pdf' target='_blank'>(Local copy)</a></li>",
+
+
+			"</ul>"]
+	},
+
+	{
+	    "title": "Publications in 2018",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["<ul>",
+
+			
+			"<li>Tyler Derr, Yao Ma, and Jiliang Tang<br /><a href='https://ieeexplore.ieee.org/abstract/document/8594922' target='_black'>Signed Graph Convolutional Networks</a><br />IEEE International Conference on Data Mining (ICDM), 2018 <a href='http://www.cse.msu.edu/~derrtyle/papers/icdm18-signed_graph_convolutional.pdf' target='_blank'>(Extended version)</a></li>",
+
+			"<li>Tyler Derr, Charu Aggarwal, and Jiliang Tang<br /><a href='https://dl.acm.org/citation.cfm?id=3271746' target='_blank'>Signed Network Modeling based on Structural Balance Theory</a><br />Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM), 2018 <a href='http://www.cse.msu.edu/~derrtyle/papers/cikm18-signed_network_modeling.pdf' target='_blank'>(Local copy)</a></li>",
+
+			"<li>Tyler Derr, Zhiwei Wang, and Jiliang Tang<br /><a href='http://www.cse.msu.edu/~derrtyle/papers/asonam18_opinions.pdf' target='_blank'>Opinions Power Opinions: Joint Link and Interaction Polarity Predictions in Signed Networks</a><br />Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018<a href='http://www.cse.msu.edu/~derrtyle/papers/opinions_power_opinions_extended.pdf' target='_blank'>Extended version</a></li>",
+
+
+			"<li>Tyler Derr, Chenxing Wang, Suhang Wang, and Jiliang Tang<br /><a href='http://www.cse.msu.edu/~derrtyle/papers/mlg18-signed_relevance_measurements.pdf' target='_blank'>Relevance Measurements in Online Signed Social Networks</a><br />Proceedings of the 14th International Workshop on Mining and Learning with Graphs (MLG), 2018</li>",
+
+			"</ul>"]
+	},
+	{
+	    "title": "Publications in 2017",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["<ul>",
+
+			"<li>Suhang Wang, Charu Aggarwal, Jiliang Tang and Huan Liu<br /><a href='http://www.public.asu.edu/~swang187/publications/SNEA.pdf' target='_blank'>Attributed Signed Network Embedding</a><br />Proceedings of the 26th ACM International Conference on Information and Knowledge Management (CIKM), 2017</li>",
+			
+			"<li>Suhang Wang, Jiliang Tang, Charu Aggarwal, Yi Chang and Huan Liu<br /><a href='http://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.37' target='_blank'>Signed Network Embedding in Social Media</a><br />Proceedings of the Seventeenth SIAM International Conference on Data Mining (SDM), 2017</li>",
+			"<li>Kewei Cheng, Jundong Li, Jiliang Tang, and Huan Liu <br /><a href='http://www.public.asu.edu/~huanliu/papers/AAAI2017.pdf' target='_blank'>Unsupervised Sentiment Analysis with Signed Social Networks</a><br /> Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI), 2017</li>",
+			"</ul>"]
+	},
+	{
+	    "title": "Publications in 2016",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["<ul>",
+
+			"<li>Jiliang Tang, Yi Chang, Charu Aggarwal, and Huan Liu.<br /><a href='https://dl.acm.org/citation.cfm?id=2956185' target='_blank'>A Survey of Signed Network Mining in Social Media</a><br />ACM Computing Surveys (CSUR) 49.3 (2016): 42.</li>",
+			
+			"<li>Ghazaleh Beigi, Jiliang Tang and Huan Liu.<br /><a href='http://arxiv.org/pdf/1603.06878v1.pdf' target='_blank'>Signed Link Analysis in Social Media Networks</a><br />The 10th International AAAI Conference on Weblogs and Social Media (ICWSM), 2016</li>",
+			
+			"<li>Jiliang Tang, Charu Aggarwal and Huan Liu.<br /><a href='http://www.cse.msu.edu/~tangjili/publication/classification_in_signed_social_network.pdf' target='_blank'>Node Classification in Signed Social Networks</a><br />SIAM International Conference on Data Mining (SDM), 2016</li>",
+			
+			"<li>Ghazaleh Beigi, Jiliang Tang, Suhang Wang and Huan Liu. <br /><a href='http://www.cse.msu.edu/~tangjili/publication/trust_distrust_prediction.pdf' target='_blank'>Exploiting Emotional Information for Trust/Distrust Prediction</a><br />SIAM International Conference on Data Mining (SDM), 2016</li>",
+			
+			"<li>Jiliang Tang, Charu Aggarwal and Huan Liu.<br /><a href='http://www.cse.msu.edu/~tangjili/publication/Recommendation-Signed-Networks.pdf' target='_blank'>Recommendations in Signed Social Networks</a><br />the 25nd International World Wide Web Conference (WWW), 2016</li>",
+			
+			"</ul>"]
+	},
+	{
+	    "title": "Publications in 2015",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["<ul>",
+
+			"<li>Jiliang Tang, and Huan Liu. <br /><a href='http://www.morganclaypool.com/doi/10.2200/S00657ED1V01Y201507SPT013' target='_blank'>Trust in Social Media</a><br />Morgan Claypool &amp; Publishers, 2015</li>",
+
+			"<li>Jiliang Tang, Huiji Gao, Atish Das Sarma, Yingzhou Bi, and Huan Liu.<br /><a href='http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6990611&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6990611' target='_blank'>Trust Evolution: Modeling and Its Applications</a><br />IEEE Transactions on Knowledge and Data Engineering (TKDE), 2015</li>",
+
+			"<li>Ying Wang, Xin Wang, Jiliang Tang, Wanli Zuo, and Guoyong Cai.<br /><a href='http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9494/9478' target='_blank'>Modeling Status Theory in Trust Prediction</a><br />the AAAI Conference on Artificial Intelligence (AAAI), 2015</li>",
+
+			"<li>Jiliang Tang, Shiyu Chang, Charu Aggarwal, and Huan Liu.<br /><a href='http://www.cse.msu.edu/~tangjili/publication/negative_link_prediction.pdf' target='_blank'>Negative Link Prediction in Social Media</a><br />ACM International Conference on Web Search and Data Mining (WSDM), 2015 <a href='http://www.cse.msu.edu/~tangjili/publication/Negative-Link_prediction_slides.pdf' target='_blank'>[Slides]</a></li>",
+
+			"</ul>"]
+	},
+	{
+	    "title": "Publications in 2014",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["<ul>",
+
+			"<li>Mohammad Ali Abbasi, Jiliang Tang, and Huan Liu.<br /><a href='http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.5615&rep=rep1&type=pdf' target='_blank'>Trust Aware Recommender Systems</a><br />in Machine Learning book on computational trust, Chapman and Hall/CRC Press</li>",
+
+			"<li>Jiliang Tang and Huan Liu.<br /><a href='http://jiliang.xyz/tTrust.htm' target='_blank'>Trust in Social Computing</a><br />Tutorial on the 23nd International World Wide Web Conference (WWW), 2014</li>",
+
+			"<li>Jiliang Tang, Xia Hu, Yi Chang, and Huan Liu. <br /><a href='http://www.cse.msu.edu/~tangjili/publication/km0131-tang.pdf' target='_blank'>Predictability of Distrust with Interaction Data</a><br />ACM International Conference on Information and Knowledge Management (CIKM), 2014</li>",
+
+			"<li>Jiliang Tang, Xia Hu and Huan Liu.<br /><a href='http://www.cse.msu.edu/~tangjili/publication/ValueofDistrust.pdf' target='_blank'>Is Distrust the Negation of Trust? The Value of Distrust in Social Media</a><br />ACM Hypertext conference (HT), 2014</li>",
+			"<li>Guoyong Cai, Jiliang Tang, Yiming Wen.<br /><a href='http://link.springer.com/chapter/10.1007/978-3-319-08010-9_72' target='_blank'>Trust Prediction with Temporal Dynamics </a><br />Web-Age Information Management, 2014</li>",
+
+			"</ul>"]
+	},
+	{
+	    "title": "Publications in 2013 and before",
+	    "author": "Dr. Jiliang Tang",
+	    "authorURL": "http://www.cse.msu.edu/~tangjili/publication.html",
+	    "time": 1482618381000,
+	    "image": "",
+	    "article": ["<ul>",
+			
+			"<li>Jiliang Tang, Huiji Gao, Xia Hu, and Huan Liu. <br /><a href='http://www.cse.msu.edu/~tangjili/publication/hTrust.pdf' target='_blank'>Exploiting Homophily Effect for Trust Prediction</a><br />the 6th ACM International Conference on Web Search and Data Mining (WSDM), 2013</li>",
+			
+			"<li>Jiliang Tang, Huiji Gao, Huan Liu and Atish Das Sarma.<br /><a href='http://www.cse.msu.edu/~tangjili/publication/trustEvolution.pdf' target='_blank'>eTrust: Understanding Trust Evolution in an Online World</a><br />the Eighteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2012 <a href='http://www.cse.msu.edu/~tangjili/publication/KDD12-eTrust.pptx' target='_blank'>[PPT]</a>, <a href='http://www.youtube.com/watch?v=O-NQUeSHvl0&feature=youtu.be' target='_blank'>[vidoe]</a></li>",
+
+			"<li>Jiliang Tang, Huiji Gao, and Huan Liu.<br /><a href='http://www.cse.msu.edu/~tangjili/publication/mTrust.pdf' target='_blank'>mTrust: Discerning Multi-Faceted Trust in a Connected World</a><br />the 5th ACM International Conference on Web Search and Data Mining (WSDM), 2012 <a href='http://www.cse.msu.edu/~tangjili/publication/WSDM2012.pdf' target='_blank'>[PPT]</a></li>",
+			
+			"</ul>"]
+	}
+    ]
+}

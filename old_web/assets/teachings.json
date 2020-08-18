@@ -1,0 +1,14 @@
+{
+  "title": "Teachings | Data Science and Engineering Lab",
+  "template": "<article class='article'><h2 class='title' title='TITLE'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Courses Offered by DSE",
+      "author": "Dr. Jiliang Tang",
+      "authorURL": "http://www.cse.msu.edu/~tangjili",
+      "time": 1482623617000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp;DSE Lab will be offering courses about big data and data mining here at MSU, the full list is:<ul><li><span>FS 2019</span>CSE 482 Big Data Analysis by Dr.Jiliang Tang (Tyler Derr, Haochen Liu)</li><li><span>SS 2019</span>CSE 881 Data Mining by Dr.Jiliang Tang (Tyler Derr, Yao Ma, Haochen Liu)</li><li><span>FS 2018</span>CSE 482 Big Data Analysis by Dr.Jiliang Tang (Tyler Derr)</li><li><span>SS 2018</span>CSE 881 Data Mining by Dr.Jiliang Tang (Tyler Derr)</li><li><span>FS 2017</span>CSE 482 Big Data Analysis by Dr.Jiliang Tang (Yao Ma)</li><li><span>SS 2017</span>CSE 881 Data Mining by Dr.Jiliang Tang</li></ul>"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "DSE Lab | Blog",
+  "template": "<article class='article'><h2 class='title' title='TITLE' style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Blog by DSE",
+      "author": "Tyler Derr",
+      "authorURL": "http://dse.cse.msu.edu/~derrtyle",
+      "time": 1483554910000,
+      "image": "",
+      "article": ["&nbsp;&nbsp;&nbsp;&nbsp;HHere we will be hosting the blog posts by our lab members. These posts will range from tehnical presentation slides, discussing current data mining trends/topics, sharing our conference travel experiences, etc. <ul><li><span>June 22, 2019</span>&nbsp&nbsp <a href='http://www.dse.cse.msu.edu/blog/june_22_2019.html'> Highlights from SDM 2019</a> by <a href='http://www.cse.msu.edu/~derrtyle'>Tyler Derr</a> </li><li><span>Dec. 1, 2018</span>&nbsp&nbsp <a href='http://www.dse.cse.msu.edu/blog/dec_1_2018.html'> Industrial Recipe for Success: 3 Parts Data and 1 Part Algorithm Design</a> by <a href='http://www.cse.msu.edu/~derrtyle'>Tyler Derr</a></li></ul>"]
+    }
+  ]
+}

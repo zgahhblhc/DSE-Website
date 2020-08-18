@@ -1,0 +1,36 @@
+{
+  "title": "News | Data Science and Engineering Lab",
+  "template": "<ul class='content'>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "DSE Lab",
+      "authorURL": "http://dse.cse.msu.edu",
+      "time": 1482355158000,
+      "article": [
+        {"text": "<span>Topic 01:</span> Introduction", "link": ""},
+        {"text": "<span>Topic 02:</span> Overview (Linear Algebra)", "link": ""},
+        {"text": "<span>Topic 03:</span> Overview (Probability, Statistics, Analysis of Algorithms)", "link": ""},
+        {"text": "<span>Topic 04:</span> Data Quality and Preprocessing", "link": ""},
+        {"text": "<span>Topic 05:</span> Dimensionality Reduction", "link": ""},
+        {"text": "<span>Topic 06:</span> Similarity Search", "link": ""},
+        {"text": "<span>Topic 07:</span> Regression Analysis", "link": ""},
+        {"text": "<span>Topic 08:</span> Classification (Introduction)", "link": ""},
+        {"text": "<span>Topic 09:</span> Classification (Linear classifiers)", "link": ""},
+        {"text": "<span>Topic 10:</span> Classification (Nonlinear classifiers)", "link": ""},
+        {"text": "<span>Topic 11:</span> Classification (Probabilistic classifiers)", "link": ""},
+        {"text": "<span>Topic 12:</span> Classification (Ensemble method)", "link": ""},
+        {"text": "<span>Topic 13:</span> Association Analysis - Introduction", "link": ""},
+        {"text": "<span>Topic 14:</span> Pattern mining and evaluation", "link": ""},
+        {"text": "<span>Topic 15:</span> Sequence mining", "link": ""},
+        {"text": "<span>Topic 16:</span> Graph mining", "link": ""},
+        {"text": "<span>Topic 17:</span> Clustering - Introduction", "link": ""},
+        {"text": "<span>Topic 18:</span> Clustering - Hierarchical clustering", "link": ""},
+        {"text": "<span>Topic 19:</span> Clustering - Density-based clustering", "link": ""},
+        {"text": "<span>Topic 20:</span> Clustering - Graph-based clustering", "link": ""},
+        {"text": "<span>Topic 21:</span> Probabilistic-based clustering", "link": ""},
+        {"text": "<span>Topic 22:</span> Anomaly Detection", "link": ""}
+      ]
+    }
+  ]
+}

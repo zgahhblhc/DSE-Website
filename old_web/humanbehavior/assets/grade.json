@@ -1,0 +1,21 @@
+{
+  "title": "Grading Criteria | CSE881 Data Mining",
+  "template": "<ul>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "article": [
+        {"text": "<span>4.0:</span> 90% +", "link": ""},
+        {"text": "<span>3.5:</span> 85%", "link": ""},
+        {"text": "<span>3.0:</span> 80%", "link": ""},
+        {"text": "<span>2.5:</span> 75%", "link": ""},
+        {"text": "<span>2.0:</span> 70%", "link": ""},
+        {"text": "<span>1.5:</span> 65%", "link": ""},
+        {"text": "<span>1.0:</span> 60%", "link": ""}
+      ]
+    }
+  ]
+}

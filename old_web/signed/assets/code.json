@@ -1,0 +1,14 @@
+{
+  "title": "DSE Lab | Signed Networks | Code",
+  "template": "<article class='article'><h2 class='title' title='TITLE' style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Our Code Repositories for Signed Networks",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "image": "",
+      "article": ["&nbsp;&nbsp;&nbsp;&nbsp;Note that we will upload the code to be publicly available from our papers upon acceptance of the corresponding papers once cleaned up for release.<ul><li><a href='http://www.cse.msu.edu/~derrtyle/code/SGCN.zip'>Signed Graph Convolutional Networks</a> for our ICDM 2018 <a href='http://www.cse.msu.edu/~derrtyle/papers/icdm18-signed_graph_convolutional.pdf'>paper</a> and another implementation can be found <a href='https://github.com/benedekrozemberczki/SGCN'>here</a></li></ul>"]
+    }
+  ]
+}

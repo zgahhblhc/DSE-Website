@@ -1,0 +1,14 @@
+{
+  "title": "People",
+  "headline": "Faculty",
+  "template": "<div class='item card'><div class='card-image'><figure class='image'><img class='photo' title='<%= title %>' alt='<%= title %>' src='<%= image %>' /></figure></div><div class='card-content content'><a class='meta' title='Linkt to: <%= title %>' href='<%= link %>' target='_blank'><h2 class='title'><%= name %></h2><p class='caption'><%= article %></p></a></div></div>",
+  "contents": [
+    {
+      "title": "Dr. Jiliang Tang",
+      "link": "http://www.jiliang.xyz/",
+      "image": "jiliang.jpg",
+      "article": "Assistant Professor/MSU"
+    }
+  ],
+  "chain": "graduate.json"
+}

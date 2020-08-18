@@ -1,0 +1,19 @@
+{
+  "title": "General Info | CSE881 Data Mining",
+  "template": "<ul>ARTICLE</ul>",
+  "contents": [
+    {
+      "title": "",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "article": [
+        {"text": "<span>Lecture Hours:</span> Mon, Wed 3:00 – 4:20pm", "link": ""},
+        {"text": "<span>Lecture Room:</span> 342 Case Hall", "link": ""},
+        {"text": "<span>Instructor:</span> Dr.Jiliang Tang", "link": ""},
+        {"text": "<span>Office:</span> 2057C Engineering Building", "link": ""},
+        {"text": "<span>Office Hours:</span> Mon, Web 4:20 – 5:20pm", "link": ""}
+      ]
+    }
+  ]
+}

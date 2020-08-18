@@ -1,0 +1,14 @@
+{
+  "title": "DSE Lab | Signed Networks | Overview",
+  "template": "<article class='article'><h2 class='title' title='TITLE' style='text-align:center'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Signed Network Analysis",
+	"author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "image": "",
+      "article": ["&nbsp;&nbsp;&nbsp;&nbsp;Many real-world relations can be represented by signed networks with positive and negative links, as a result of which signed network analysis has attracted increasing attention from multiple disciplines. In this project, we systematically investigate many aspects of signed social network from network models and measurements to network mining and applications.<br><br><a href='http://www.cse.msu.edu/~tangjili'>Dr. Jiliang Tang</a> has received the <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845081&HistoricalAwards=false'>NSF CAREER award</a> in 2019 based on our research of signed network analysis!<br><br><b>Current Graduate Students:</b>&nbsp;&nbsp;&nbsp;&nbsp;<ul><li><a href='http://www.cse.msu.edu/~derrtyle'>Tyler Derr</a></li></ul>"]
+    }
+  ]
+}

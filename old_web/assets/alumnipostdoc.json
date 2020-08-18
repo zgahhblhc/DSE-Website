@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "separator": "<article class='article'><h2 class='title'>Alumni (PostDoc)</h2></article>",
+  "template": "<div class='item card'><img class='phototwo' title='TITLE' src='IMAGEURL' /><a class='meta' title='Link to: AUTHOR' href='AUTHORURL' target='_blank'><h2 class='title'>TITLE</h2><p class='caption'>ARTICLE</p></a></div>",
+  "chain": "alumnigraduate",
+    "contents": [
+
+	{
+	  "title": "Meznah Almutairy",
+	  "author": "Meznah Almutairy",
+	  "authorURL": "#",
+	  "time": 1482264848000,
+	  "article": "PhD/Computer Science <br> Now: Faculty at Al-Imam Muhammad Ibn Saud Islamic University"
+      }
+  ]
+}

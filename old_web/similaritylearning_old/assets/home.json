@@ -1,0 +1,14 @@
+{
+  "title": "Welcome! | CSE881 Data Mining | Spring 2017",
+  "template": "<article class='article'><h2 class='title' title='TITLE'>TITLE</h2><img class='image' title='TITLE' src='IMAGEURL' /><p>ARTICLE</p></article><hr />",
+  "contents": [
+    {
+      "title": "Course Information",
+      "author": "Data Mining",
+      "authorURL": "http://dse.cse.msu.edu/cse881",
+      "time": 1483554910000,
+      "image": "",
+      "article": "&nbsp;&nbsp;&nbsp;&nbsp;This course will cover the fundamental topics in data mining including classification, clustering, association analysis, and anomaly detection. The course is aimed towards graduate students who are interested to do research in data mining, machine learning, and other related disciplines.<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;Students are expected to have programming background either in C, C++, Java, Python, or other equivalent programming languages in order to do the homework assignments and class project. Some of the homework assignments may require programming in Matlab. Students are also expected to have background in algorithms and data structures, linear algebra, and probability/statistics."
+    }
+  ]
+}

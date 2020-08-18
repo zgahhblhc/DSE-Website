@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+
+<html lang='en-US'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='author' content='Tyler Derr' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+
+    <link rel='stylesheet' href='../css/normalize.css'  />
+    <link rel='stylesheet' href='../css/initial.css' />
+    <link rel='stylesheet' href='../css/header.css' />
+    <!--> <link rel='stylesheet' href='../css/container.css' /> </!-->
+    <link rel='stylesheet' href='../css/footer.css' />
+    <link rel='stylesheet' href='../css/mediaquery.css' />
+    <link rel='stylesheet' href='./css/blog.css' />
+    
+    <script type='text/javascript' src='../js/jquery.js' defer></script>
+    <script type='text/javascript' src='../js/jquery.mobile.js' defer></script>
+    <script type='text/javascript' src='../js/lodash.js' defer></script>
+    <script type='text/javascript' src='../js/chart.js' defer></script>
+    <script type='text/javascript' src='./js/script.js' defer></script>
+
+    <title id='title'>Blog @ DSE</title>
+  </head>
+  <body>
+    <header>
+      <img class='wordmark' title='MSU' alt='MSU Wordmark'
+	   src='../assets/MSU_Wordmark.svg' />
+      
+      <div class='title'><canvas id='logo'></canvas>Data Science and Engineering Lab</div>
+      <nav class='navi'>
+        <ul class='list'>
+          <li><a class='button' href='http://www.dse.cse.msu.edu'>DSE Home</a></li>
+	  <li><a class='button' href='http://www.dse.cse.msu.edu/blog'>DSE Blog Home</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class='container' id='container'>
+      <div class='main' style='width:80%'>
+
+	<div>
+	    <br>
+	    <font size="4">ICDM 2018</font>
+	    <br>
+	    <font size="6">Industrial Recipe for Success:</font>
+	    <br>
+	    <font size="6">3 Parts Data and 1 Part Algorithm
+	      Design</font>
+	    <br><br>
+	    <font size="5">By: <a href='http://www.cse.msu.edu/~derrtyle'>Tyler
+	      Derr</a> (derrtyle@msu.edu)</font>
+	</div>
+	
+	<div>
+	<p style="text-align:center;position:relative;display:block;clear:both"><img src="images/dec_1_2018/panel.jpeg"
+					   width='70%'/ style="padding: 20px;"></p>
+	</div>
+	<p style="text-align:justify;display:block;clear:both">
+	As the title says, 3 parts data and 1 part algorithm design,
+	these were the words of wisdom given to me when talking with
+	Dr. Xindong Xu (the president of ICDM) and similar words from
+	Dr. Feida Zhu (one of this year’s ICDM General Chairs), but
+	perhaps this divide need some context. The final event on the
+	last day was the <strong>“ICDM Panel: The Future of Data Mining –
+	Frontiers, Opportunities, and Challenges”</strong>, in which Dr. Feida
+	Zhu was the moderator and the expert panelists were
+	Dr. Ramamohana (Rao) Kotagiri, Dr. Xindong Wu, Dr. Bhavani
+	Thuraisingham, Dr. Dacheng Tao, and Dr. C. Mohan (listed from
+	left to right in the above image). They discussed
+	the future of data mining and answered a few questions from
+	the audience, such as their thoughts on the role deep learning
+	will play moving forward. However, one question that was posed
+	by the moderator (Dr. Feida Zhu) was a question that related
+	to the idea of whether currently today, if having a company,
+	what should the balance be between focusing on
+	obtaining/collecting “good” data as compared to spending more
+	resources on researching new algorithm designs. Each of the
+	panelists discussed their thoughts and just about everyone
+	finally reasoned that both are necessary, except for
+	Dr. Xindong Wu. He immediately said data is more important,
+	and insisted that for both big industry along with start ups
+	companies that they should be focusing on the data aspect of
+	things. However, this seems to contradict the primary way of
+	thought from perhaps a decade ago where everyone focused on
+	developing the cutting edge algorithms (to ultimately obtain
+	slightly better performance than the competition). I had
+	wanted to ask the following question to the panel thereafter,
+	but unfortunately they were out of time and only one other
+	person was selected for a question: <strong>“If you had to assign a
+	ratio between the importance of data and algorithms, what
+	would it be?”</strong>, since none of the panelists included this for
+	their answers previously.
+	</p>
+	
+	<p style="text-align:justify">
+	  <img id="Image1" src="images/dec_1_2018/tyler_and_xindong.jpeg"
+	       style="padding: 20px;" align="right"  width="30%" />
+	I waited until after the closing remarks to find seek out
+	Dr. Feida Zhu, to ask his opinion on this matter, since he
+	first posed the question and is the founder of Symphony
+	Protocol [1]. Thereafter I asked Dr. Xindong Wu if he could
+	elaborate on the comments he made during the panel
+	session. This is when he mentioned the ratio given here of 3
+	times the effort on data over the algorithm
+	       design. <strong>Dr. Xindong Wu and I
+	further discussed why in today’s world the focus must shift
+	towards data.</strong> My thoughts were basically that <strong>1)</strong> essentially
+	no competitor is going to share their data with you, <strong>2)</strong>
+	realizing that we can be “standing on the shoulders of giants”
+	~ Sir Isaac Newton, which in this context is to
+	say that for the algorithm design it is quite reasonable to
+	utilize the methodologies that are being developed in the top
+	data mining and machine learning conferences (such as ICDM)
+	and thus not requiring as much effort, since we do not need to
+	start from scratch, <strong>3)</strong> if the algorithms are more openly
+	shared and the data is not, it seems only logical that the
+	data should be more of the focus, plus it is a race to obtain
+	the data first because once it is obtained it has the
+	potential to be harnessed by the owner to outperform the
+	competition, and finally <strong>4)</strong> most are currently overlooking the
+	fact that data collected from different cultures (i.e.,
+	sources/locations) can have vastly different insights and is
+	likely to struggle when attempting to utilize data collected
+	in one culture that was obtained in another. In regards to the
+	last point, it is believed this is likely one of the reasons
+	that Google allegedly has the modified censored search engine
+	designed for China, that is allegedly codenamed Dragonfly
+	(which the Google CEO Sundai Pichai has reportedly commented
+	that things were “exploratory”, but the project has not been
+	officially confirmed [2]). This is because although Google is
+	collecting vast amount of information from around the world,
+	in China they have roughly only 2% of the search market [3],
+	while China has roughly 18% of the world population [4].
+	</p>
+	<p  style="text-align:justify">
+	Another key point I’m wanting to share with everyone based on
+	my experience at ICDM 2018 (and other conferences) is that you
+	should <strong>always be curious and willing to ask
+	questions</strong>. Although for some of us it might be out of our
+	comfort zone to ask a question in front of the whole room, but
+	with practice, it will becomes second nature, so you might as
+	well start asking now (or at least by the next time your
+	attending a conference).
+	</p>
+	<p  style="text-align:justify">
+
+	  <img src="images/dec_1_2018/phd_forum.jpeg" align='left'
+	  width='60%'/ style="padding: 20px;">
+	  Finally, wanting to highlight that <strong>participating in the PhD
+	Forum is a great opportunity</strong> to share your ongoing
+	dissertation topic while obtaining great feedback from your
+	peers and experts who attend the session. This year we were
+	lucky to have the session “Meeting with Mentors”, which
+	consisted of, Dr. Panagiotis Papapetrou Dr. Bhavani
+	Thuraisingham, and Dr. Xindong Wu, who in a panel format,
+	answered our questions. I had asked them the question of first
+	how to balance reading papers. More specifically, in that
+	sometimes we need to go deeper to understand everything on
+	very relevant topics to our own, but other times we are just
+	seeking a higher level understanding of the methodology and
+	the direction the community is focusing in at that time (i.e.,
+	finding the hot/trending topics) and furthermore, how they
+	believe this changes (or perhaps needs to change) when
+	transitioning from a PhD student to an Assistant Professor. If
+	you’d like to hear more about their thoughts on this matter
+	and also that of my own
+	  advisor, <a href="http://www.cse.msu.edu/~tangjili">Dr. Jiliang
+	  Tang </a> (who I have
+	discussed the same topic with), I encourage you to drop me an
+	email, or if you have any other thoughts of questions; I’d be
+	happy to discuss with you.
+	</p>
+	<p  style="text-align:justify">
+	Overall, I believe my time spent at ICDM 2018 this year was
+	very fruitful, especially in terms of networking with the community (both
+	my fellow PhD students and senior data mining researchers).
+	</p>
+
+
+	References:<br>
+	[1]<a href='http://symphonyprotocol.com/'>http://symphonyprotocol.com/</a><br>
+	[2] <a href='http://www.theverge.com/2018/10/4/17938376/google-china-search-engine-white-house-vp-mike-pence-criticism'>http://www.theverge.com/2018/10/4/17938376/google-china-search-engine-white-house-vp-mike-pence-criticism</a><br>
+	[3] <a href='http://gs.statcounter.com/search-engine-market-share/all/china'>http://gs.statcounter.com/search-engine-market-share/all/china</a><br>
+	[4] <a href='http://en.wikipedia.org/wiki/World_population'>http://en.wikipedia.org/wiki/World_population</a><br>
+	
+      </div>
+    </div>
+
+    
+    <footer>
+      <img class='seal' title='MSU' alt='MSU Seal' src='../assets/MSU_Seal.svg' />
+      <div class='element'>
+        <p class='title'>DSE Blog</p>
+        <p>&copy; Copyright <b>DSE Lab</b></p>
+	<p>A MSU CSE Dpt.,<p>
+        <p>2017 All Rights Reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
