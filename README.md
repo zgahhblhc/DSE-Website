@@ -1,3 +1,3 @@
 # DSE-Website
 
- https://zgahhblhc.github.io/
+ The link to view the new site: https://zgahhblhc.github.io/
