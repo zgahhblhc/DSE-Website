@@ -20,7 +20,7 @@ for i, year in enumerate(year_list):
     for j, pub in enumerate(pubs):
         lines = pub.split('\n')
         code += '\t\t\t\t\t\t<p>[' + str(j+1) + '] ' + lines[0] + ' <br>\n'
-        indent_num = 5 if (j+1) // 10 == 0 else 7
+        indent_num = 4 if (j+1) // 10 == 0 else 6
         indent = '&nbsp' * indent_num
 
         for line in lines[1:]:
