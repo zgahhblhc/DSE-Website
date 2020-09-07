@@ -211,7 +211,8 @@ html {
   font-size: 15px; }
 
 body {
-  color: #8e9ca5;
+  /*color: #8e9ca5;*/
+  color: #728089;
   font-family: "Roboto", "Open Sans", sans-serif;
   font-weight: 300;
   line-height: 1.5; }
@@ -231,7 +232,8 @@ ul, ol {
 
 a {
   text-decoration: none;
-  color: #69acc7; }
+  /*color: #69acc7;*/
+  color: #55a8c7; }
 
 address {
   font-style: normal; }
