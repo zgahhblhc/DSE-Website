@@ -10,15 +10,15 @@ Yao Ma, Ziyi Guo, Zhaochun Ren, Eric Zhao, Jiliang Tang, Dawei Yin
 Streaming Graph Neural Networks-->https://arxiv.org/pdf/1810.10627.pdf
 Preprint, 2018
 
-Hamid Karimi, Jiliang Tang, and Yanen Li
+Hamid Karimi, Jiliang Tang and Yanen Li
 Toward End-to-End Deception Detection in Videos-->http://cse.msu.edu/~karimiha/publications/DEV-Short.pdf
 In Proceedings of the 5th IEEE International Conference on Big Data, 2018
 
-Tyler Derr, Yao Ma, and Jiliang Tang
+Tyler Derr, Yao Ma and Jiliang Tang
 Signed Graph Convolutional Networks-->http://cse.msu.edu/~derrtyle/papers/icdm18-signed_graph_convolutional.pdf
 IEEE International Conference on Data Mining (ICDM), 2018
 
-Tyler Derr, Charu Aggarwal, and Jiliang Tang
+Tyler Derr, Charu Aggarwal and Jiliang Tang
 Signed Network Modeling Based on Structural Balance Theory-->http://cse.msu.edu/~derrtyle/papers/cikm18-signed_network_modeling.pdf
 Proceedings of the 2018 ACM on Conference on Information and Knowledge Management (CIKM), 2018
 
@@ -26,7 +26,7 @@ Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin and Jiliang Tang
 Deep Reinforcement Learning for Page-wise Recommendations-->http://www.cse.msu.edu/~zhaoxi35/paper/recsys2018.pdf
 In Proceedings of the 12th ACM Recommender Systems Conference, 2018
 
-Tyler Derr, Chenxing Wang, Suhang Wang, and Jiliang Tang
+Tyler Derr, Chenxing Wang, Suhang Wang and Jiliang Tang
 Relevance Measurements in Online Signed Social Networks-->http://cse.msu.edu/~derrtyle/papers/mlg18-signed_relevance_measurements.pdf
 In ACM SIGKDD 14th International Workshop on Mining and Learning with Graphs (MLG), 2018
 
@@ -42,11 +42,11 @@ Hamid Karimi
 Interpretable Multimodal Deception Detection in Videos-->http://cse.msu.edu/~karimiha/publications/DEV-ICMI-Doctral-Consortium.pdf
 Proceedings of the ACM International Conference on Multimodal Interaction, 2018
 
-Tyler Derr, Zhiwei Wang, and Jiliang Tang
+Tyler Derr, Zhiwei Wang and Jiliang Tang
 Opinions Power Opinions: Joint Link and Interaction Polarity Predictions in Signed Networks-->http://cse.msu.edu/~derrtyle/papers/asonam18-opinions_power_opinions.pdf
 Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018
 
-Yao Ma, Suhang Wang, and Jiliang Tang
+Yao Ma, Suhang Wang and Jiliang Tang
 Local and Global Information Preserved Network Embedding-->https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8508496
 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018
 
@@ -54,7 +54,7 @@ Hamid Karimi, Courtland VanDam, Liyang Ye, Jiliang Tang
 End-to-End Compromised Account Detection-->http://cse.msu.edu/~karimiha/publications/E2ECAD.pdf
 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018 *Best Paper Award*
 
-Courtland VanDam, Pang-Ning Tan, Jiliang Tang, and Hamid Karimi
+Courtland VanDam, Pang-Ning Tan, Jiliang Tang and Hamid Karimi
 CADET: A Multi-View Learning Framework for Compromised Account Detection on Twitter-->http://cse.msu.edu/~karimiha/publications/CADET.pdf
 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018
 
@@ -62,7 +62,7 @@ Hamid Karimi, Proteek Roy, Sari Saba-Sadiya, Jiliang Tang
 Multi-Source Multi-Class Fake News Detection-->http://cse.msu.edu/~karimiha/publications/MMFD.pdf
 Proceedings of the 27th International Conference on Computational Linguistics, 2018
 
-Yao Ma, Jiliang Tang, and Charu Aggarwal
+Yao Ma, Jiliang Tang and Charu Aggarwal
 Feature Engineering for Data Streams-->https://www.taylorfrancis.com/books/e/9781351721271/chapters/10.1201%2F9781315181080-5
 Feature Engineering for Machine Learning and Data Analytics (CRC Press), 2018
 

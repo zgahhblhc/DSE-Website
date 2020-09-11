@@ -4,14 +4,12 @@ with open('./template_code.html', 'r') as f:
 before, after = template_code.split('*****')
 out_code = before
 
-year_list = ['2020', '2019', '2018', '2017', '2016']
+year_list = ['2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012 and Before']
 
 for i, year in enumerate(year_list):
     with open('../publist/' + year, 'r') as f_in:
         pubs = f_in.read().split('\n\n')
 
-    
-    
     code = ''
     code += '\t\t\t\t<div class="fullwidth-block">\n' if i % 2 == 0 else '\t\t\t\t<div class="fullwidth-block" data-bg-color="#edf2f4">\n'
     code += '\t\t\t\t\t<div class="container">\n'
