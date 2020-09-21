@@ -1588,12 +1588,15 @@ ol.circle {
   .project-list .project {
     float: left;
     /*background-color: #ccf5ff;*/
-    width: 33.3333%;
-    padding: 0 15px;
-    text-align: center;
-    margin-bottom: 30px; }
-    .project-list .project:nth-child(3n+1) {
-      clear: both; }
+    /*width: 33.3333%;*/
+    width: 100%;
+    /*padding: 0 15px;*/
+    padding: 0 25px;
+    /*text-align: center;*/
+    text-align: left;
+    margin-bottom: 20px; }
+    /*.project-list .project:nth-child(3n+1) {clear: both; }*/
+    .project-list .project:nth-child(n+1) {clear: both; }
     @media screen and (max-width: 990px) {
       .project-list .project {
         width: 50%; }
@@ -1609,7 +1612,8 @@ ol.circle {
     .project-list .project .project-content {
       border: 1px solid #dde7ea;
       border-radius: 5px;
-      background-color: #ccf5ff;
+      /*background-color: #ccf5ff;*/
+      background-color: rgba(207, 255, 232, 0.75);
       padding: 20px;
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0); }
     .project-list .project .project-image {
