@@ -25,38 +25,38 @@
 	<body>
 		
 		<div class="site-content">
-		<header class="site-header collapsed-nav" data-bg-image="">
-                                <div class="container">
-                                        <div class="header-bar">
-                                                <a href="index.html" class="branding">
-                                                        <img src="images/dse.png" alt="DSE" class="logo" width="200" height="100">
-                                                        <div class="logo-type">
-                                                                <h1 class="site-title">Data Science and Engineering Lab</h1>
-                                                                <small class="site-description">Michigan State University</small>
-                                                        </div>
-                                                </a>
+			<header class="site-header" data-bg-image="">
+				<div class="container">
+					<div class="header-bar">
+						<a href="index.html" class="branding">
+							<img src="images/dse.png" alt="DSE" class="logo" width="200" height="100">
+							<div class="logo-type">
+								<h1 class="site-title">Data Science and Engineering Lab</h1>
+								<small class="site-description">Michigan State University</small>
+							</div>
+						</a>
 
-                                                <nav class="main-navigation">
-                                                        <button class="menu-toggle"><i class="fa fa-bars"></i></button>
-                                                        <ul class="menu">
-                                                                <li class="home menu-item current-menu-item"><a href="index.html"><img src="images/home-icon.png" alt="Home"></a></li>
-                                                                <li class="menu-item"><a href="people.html">People</a></li>
-                                                                <!--li class="menu-item"><a href="about.html">About</a></li-->
-                                                                <li class="menu-item"><a href="publications.html">Publications</a></li>
+						<nav class="main-navigation">
+							<button class="menu-toggle"><i class="fa fa-bars"></i></button>
+							<ul class="menu">
+								<li class="home menu-item current-menu-item"><a href="index.html"><img src="images/home-icon.png" alt="Home"></a></li>
+								<li class="menu-item"><a href="people.html">People</a></li>
+								<!--li class="menu-item"><a href="about.html">About</a></li-->
+								<li class="menu-item"><a href="publications.html">Publications</a></li>
 
-                                                                <!--li class="menu-item"><a href="services.html">Services</a></li-->
-                                                                <li class="menu-item"><a href="projects.html">Projects</a></li>
-                                                                <li class="menu-item"><a href="contact.html">Contact</a></li>
-                                                        </ul>
-                                                </nav>
+								<!--li class="menu-item"><a href="services.html">Services</a></li-->
+								<li class="menu-item"><a href="projects.html">Projects</a></li>
+								<li class="menu-item"><a href="contact.html">Contact</a></li>
+							</ul>
+						</nav>
 
-                                                <div class="mobile-navigation"></div>
-                                        </div>
-                                </div>
-                        </header>
+						<div class="mobile-navigation"></div>
+					</div>
+				</div>
+			</header>
 
 
-			<div class="page-head" data-bg-image="images/home3.jpeg">
+			<div class="page-head" data-bg-image="images/home2.jpeg">
 				<div class="container">
 					<h2 class="page-title">Contact</h2>
 					<!--small>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit consequuntur magni </small-->
@@ -66,35 +66,51 @@
 			<main class="main-content">
 				
 				<div class="fullwidth-block">
+
 					<div class="container">
-<!--						    <h3>Map</h3>-->
-<!--                            &lt;!&ndash;The div element for the map &ndash;&gt;-->
-<!--                            <div id="map"></div>-->
-<!--						    <script>-->
-<!--						    // Initialize and add the map-->
-<!--						    function initMap() {-->
-<!--						      // The location of Uluru-->
-<!--						      var uluru = {lat: 42.724900, lng: -84.480974};-->
-<!--						      // The map, centered at Uluru-->
-<!--						      var map = new google.maps.Map(-->
-<!--						          document.getElementById('map'), {zoom: 4, center: uluru});-->
-<!--						      // The marker, positioned at Uluru-->
-<!--						      var marker = new google.maps.Marker({position: uluru, map: map});-->
-<!--						    }-->
-<!--							 </script>-->
-<!--    						    &lt;!&ndash;Load the API from the specified URL-->
-<!--   						        * The async attribute allows the browser to render the page while the API loads-->
-<!--    						    * The key parameter will contain your own API key (which is not needed for this tutorial)-->
-<!--    						    * The callback parameter executes the initMap() function-->
-<!--    						    &ndash;&gt;-->
-<!--    						    <script defer-->
-<!--    						    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">-->
-<!--    						    </script>-->
+						<head>
+					    <title>Add Map</title>
+					    <script
+					      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXbzRIFg6cCVble2PYnT5B3JDKsrFDc2o&callback=initMap&libraries=&v=weekly"
+					      defer
+					    ></script>
+					    <style type="text/css">
+					      /* Set the size of the div element that contains the map */
+					      #map {
+					        height: 300px;
+					        /* The height is 400 pixels */
+					        width: 100%;
+					        /* The width is the width of the web page */
+					      }
+					    </style>
+					    <script>
+					      // Initialize and add the map
+					      function initMap() {
+					        // The location of Uluru
+					        const msu = { lat: 42.724900, lng: -84.480974 };
+					        // The map, centered at Uluru
+					        const map = new google.maps.Map(document.getElementById("map"), {
+					          zoom: 10,
+					          center: msu,
+					        });
+					        // The marker, positioned at msu
+					        const marker = new google.maps.Marker({
+					          position: msu,
+					          map: map,
+					        });
+					      }
+					    </script>
+					  </head>
+					    <body>
+<!--					    <h3>My Google Maps Demo</h3>-->
+					    <!--The div element for the map -->
+					    <div id="map"></div>
+					  </body>
 
 
 
-						 <div class="map" data-latitude="42.724900" data-longitude="-84.480974"></div>
-
+<!--						 <div class="map" data-latitude="42.724900" data-longitude="-84.480974"></div>-->
+                         <br>
 						 <div class="row">
 						 	<div class="col-md-4">
 						 		<div class="boxed-content">
